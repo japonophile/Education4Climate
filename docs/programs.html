@@ -31,12 +31,12 @@
     <div id="app">
 
         <header v-if="dataLoaded" v-cloak>
-            <nav class="navbar navbar-expand-xl navbar-light bg-light">
+            <nav class="navbar navbar-expand-xl navbar-light">
                 <div class="container-fluid">
-                    <a :href="'index.html?lang=' + currentLanguage"><img src="./img/icon-education4climate.svg"
+                    <a :href="'index.html?lang=' + currentLanguage"><img src="./img/cap.svg"
                             alt="logo" id="logo"></a>
                     <a class="navbar-brand text-primary" :href="'index.html?lang=' + currentLanguage"><strong>EDUCATION
-                            4 CLIMATE</strong><sup class="beta"> BETA</sup></a>
+                            4 <span class="text-secondary">CLIMATE</span></strong><sup class="beta"> BETA</sup></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"
                         aria-label="Toggle navigation">
@@ -84,7 +84,7 @@
 
         <div class="container-fluid" id="programs-finder" v-if="dataLoaded" v-cloak>
 
-            <div class="row">
+            <div class="row bg-primary">
 
                 <div class="d-grid show-filters-container">
                     <button type="button" class="btn btn-primary show-filters" data-bs-toggle="collapse"
@@ -93,7 +93,7 @@
                         }}</button>
                 </div>
 
-                <div class="col-xl-2 sidebar collapse">
+                <div class="col-xl-2 sidebar collapse bg-primary">
 
                     <h6 class="title first">{{translate("shared.schools")}}</h6>
                     <div class="filter d-flex" v-for="school in sortedSchools">
@@ -171,12 +171,12 @@
                                             <h5><span class="badge bg-success">{{program.score}}</span>
                                                 {{program.name}}
                                                 <span
-                                                    class="badge bg-light text-body">{{schools[program.schoolId].shortName}}</span>
+                                                    class="badge badge-secondary">{{schools[program.schoolId].shortName}}</span>
                                             </h5>
                                         </div>
                                         <div class="themes-badges">
                                             <span v-for="theme in program.themes">
-                                                <span class="badge bg-primary bg-theme">{{translate("themes." +
+                                                <span class="badge bg-primary badge-primary">{{translate("themes." +
                                                     themes[theme.id].name)}}&nbsp;&nbsp;&nbsp;
                                                     <span
                                                         class="badge rounded-pill bg-white text-primary">{{theme.score}}</span>

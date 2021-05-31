@@ -31,12 +31,11 @@
     <div id="app" v-if="dataLoaded" v-cloak>
 
         <header>
-            <nav class="navbar navbar-expand-xl navbar-light bg-light">
+            <nav class="navbar navbar-expand-xl navbar-light">
                 <div class="container-fluid">
-                    <a :href="'index.html?lang=' + currentLanguage"><img src="./img/icon-education4climate.svg"
-                            alt="logo" id="logo"></a>
+                    <a :href="'index.html?lang=' + currentLanguage"><img src="./img/cap.svg" alt="logo" id="logo"></a>
                     <a class="navbar-brand text-primary" :href="'index.html?lang=' + currentLanguage"><strong>EDUCATION
-                            4 CLIMATE</strong><sup class="beta"> BETA</sup></a>
+                            4 <span class="text-secondary">CLIMATE</span></strong><sup class="beta"> BETA</sup></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"
                         aria-label="Toggle navigation">
@@ -61,53 +60,22 @@
             </nav>
         </header>
 
-        <main id="home">
+        <main id="home" class="bg-primary text-primary">
 
-            <div class="beta-banner" v-html="translate('home.beta')"></div>
-
-            <div id="carousel-home" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="carousel-item active" id="carousel-item-students">
-                        <div class="carousel-caption">
-                            <div class="container">
-                                <div class="row justify-content-center">
-                                    <div class="col-md-6">
-                                        <h1>{{translate("home.headline-students")}}</h1>
-                                        <p><a class="btn btn-primary learn-more"
-                                                href="#home-intro">{{translate("shared.learn-more")}}</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            <div class="container" style="max-width:65rem;">
+                <div class="row">
+                    <div class="col-lg-9" style="margin-bottom: 3rem;">
+                        <div class="title text-secondary" style="white-space: nowrap;">Où étudier</div>
+                        <div class="subtitle text-primary">pour contribuer à la transition carbone et avoir un impact sur le climat?</div>
                     </div>
-                    <div class="carousel-item" id="carousel-item-teachers">
-                        <div class="carousel-caption">
-                            <div class="container">
-                                <div class="row justify-content-center">
-                                    <div class="col-md-6">
-                                        <h1>{{translate("home.headline-teachers")}}
-                                        </h1>
-                                        <p><a class="btn btn-primary learn-more"
-                                                href="#home-intro">{{translate("shared.learn-more")}}</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="d-none d-lg-block col-lg-3" style="text-align:right; margin: auto;">
+                        <img src="/img/cap.svg" style="width: 80%;" />
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carousel-home"
-                    data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carousel-home"
-                    data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
             </div>
 
             <div class="container " id="home-intro">
+
                 <div class="row text-center ">
                     <div class="col-md-4 d-grid d-md-block">
                         <a href="programs.html" type="button"
@@ -138,7 +106,8 @@
                     </div>
                     <div class="col-xl-3 col-md-6 logo">
                         <a href="https://theshiftproject.org" target="_blank" rel="noopener">
-                            <img src="img/the-shift-project-logo.png" width="200" height="113" alt="The Shift Project logo">
+                            <img src="img/the-shift-project-logo.png" width="200" height="113"
+                                alt="The Shift Project logo">
                         </a>
                     </div>
                     <div class="col-xl-3 col-md-6 logo">
@@ -156,14 +125,14 @@
 
         </main>
 
-        <footer class="text-muted py-5 bg-secondary">
+        <footer class="text-muted py-5">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-6">The Shifters Belgium</div>
                     <div class="col-xl-6 right">
                         <ul>
-                            <li><a
-                                    href="https://docs.google.com/forms/d/e/1FAIpQLSf7_WTtbBRkQxs-hBHNfWPGlwKVurvoHRgZR7kGlKbVxkQLJg/viewform" target="_blank" rel="noopener">{{translate("footer.contact")}}</a>
+                            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSf7_WTtbBRkQxs-hBHNfWPGlwKVurvoHRgZR7kGlKbVxkQLJg/viewform"
+                                    target="_blank" rel="noopener">{{translate("footer.contact")}}</a>
                             </li>
                             <li>
                                 <a href="legal.html">{{translate("footer.legal")}}</a>

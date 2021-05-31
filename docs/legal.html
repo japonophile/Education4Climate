@@ -31,12 +31,12 @@
     <div id="app" v-if="dataLoaded" v-cloak>
 
         <header>
-            <nav class="navbar navbar-expand-xl navbar-light bg-light">
+            <nav class="navbar navbar-expand-xl navbar-light">
                 <div class="container-fluid">
-                    <a :href="'index.html?lang=' + currentLanguage"><img src="./img/icon-education4climate.svg"
+                    <a :href="'index.html?lang=' + currentLanguage"><img src="./img/cap.svg"
                             alt="logo" id="logo"></a>
                     <a class="navbar-brand text-primary" :href="'index.html?lang=' + currentLanguage"><strong>EDUCATION
-                            4 CLIMATE</strong><sup class="beta"> BETA</sup></a>
+                            4 <span class="text-secondary">CLIMATE</span></strong><sup class="beta"> BETA</sup></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"
                         aria-label="Toggle navigation">
@@ -61,9 +61,9 @@
             </nav>
         </header>
 
-        <main id="home">
+        <main id="home" class="bg-primary">
 
-            <div class="container " id="home-intro" v-html="translate('legal-text')">
+            <div class="container" id="home-intro" v-html="translate('legal-text')">
 
             </div>
 

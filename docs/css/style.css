@@ -1,3 +1,84 @@
+/* COULEURS */
+
+:root {
+    --blue: #1a3066;
+    --beige: #fcfaf4;
+    --orange: #f06e05;
+    --green: #66d3b9;
+}
+
+.bg-primary {
+    background-color: var(--beige) !important;
+}
+
+.bg-success {
+    background-color: var(--green) !important;
+}
+
+.text-primary {
+    color: var(--blue) !important;
+}
+
+.text-secondary {
+    color: var(--orange) !important;
+}
+
+.btn-primary {
+    background-color: var(--blue) !important;
+    border-color: var(--blue) !important;
+    color: var(--beige) !important;
+}
+
+.btn-primary:hover {
+    color: var(--orange) !important;
+}
+
+a {
+    color: var(--orange) !important;
+}
+
+a:hover {
+    color: var(--green) !important;
+}
+
+nav li a, footer li a, .sidebar-footer a {
+    color: var(--blue) !important;
+}
+
+nav li a.active {
+    color: var(--orange) !important;
+}
+
+nav li a:hover, footer li a:hover, .sidebar-footer a:hover {
+    color: var(--orange) !important;
+}
+
+.form-check-input:checked {
+    background-color: var(--blue);
+    border-color: var(--blue);
+}
+
+.badge-primary {
+    background-color: var(--blue) !important;
+    color: var(--beige) !important;
+}
+
+.badge-secondary {
+    background-color: var(--orange) !important;
+    color: var(--beige) !important;
+}
+
+#alphabet .letter.active {
+    background-color: var(--green) !important;
+    border-color: var(--green) !important;
+}
+
+main a, footer a, .sidebar-footer a {
+    font-weight: 600;
+}
+
+/* BASE */
+
 a {
     text-decoration: none;
 }
@@ -16,12 +97,25 @@ body.modal-open {
     background-color: #f8f9fa !important;
 }
 
+h6 {
+    color: var(--blue) !important;
+}
+
 body {
     /* force scrollbar on courses/programs/teachers to avoid reflow on infrequent results pages with too few results */
     overflow-y: scroll !important;
 }
 
 /* MENU & NAVIGATION */
+
+nav,
+main {
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 10%), 0 1px 2px 0 rgb(0 0 0 / 6%);
+}
+
+nav li a {
+    font-weight: 700;
+}
 
 #logo {
     height: 1.7rem;
@@ -35,6 +129,21 @@ body {
 }
 
 /* HOME */
+
+#home .title {
+    font-size: 8rem;
+    -webkit-text-stroke: 4px var(--orange);
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+}
+
+#home .subtitle {
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1em;
+    margin-top: -2.5rem;
+    margin-left: 5.5rem;
+}
 
 #carousel-item-students,
 #carousel-item-teachers {
@@ -116,12 +225,6 @@ a.btn:empty {
     flex-direction: row;
 }
 
-#languages-selector a.active,
-#menu a.active {
-    color: #0d6efd;
-    font-weight: 500;
-}
-
 .accordion-body {
     background-color: #fdfefe;
 }
@@ -151,8 +254,8 @@ a.btn:empty {
     margin-bottom: 0.5rem;
 }
 
-#alphabet .letter.active {
-    background-color: #157347;
+.navbar-brand:hover {
+    color: var(--blue) !important;
 }
 
 /* SIDEBAR */
@@ -163,12 +266,7 @@ a.btn:empty {
 }
 
 .sidebar h6.title {
-    color: #0d6efd;
     margin-top: 1rem;
-}
-
-.sidebar h6.title.first {
-    margin-top: 0;
 }
 
 .filter .count {
@@ -298,7 +396,7 @@ footer li {
         display: flex;
     }
 
-    .bg-theme {
+    .badge-primary {
         margin-bottom: 0.3rem;
     }
 
@@ -391,6 +489,20 @@ footer li {
 
     footer div.right {
         text-align: right;
+    }
+}
+
+@media (max-width: 991.99px) {
+
+    #home .title {
+        font-size: 15vw;
+        -webkit-text-stroke: 0.5vw var(--orange);
+    }
+
+    #home .subtitle {
+        font-size: 5.6vw;
+        margin-left: 1rem;
+        margin-top: -1rem;
     }
 }
 
