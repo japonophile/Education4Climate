@@ -25,6 +25,7 @@ class TITechProgramSpider(scrapy.Spider, ABC):
     }
 
     def start_requests(self):
+        self.program_ids = []
         yield scrapy.Request(url=BASE_URL, callback=self.parse_main)
 
     def parse_main(self, response):
@@ -33,6 +34,16 @@ class TITechProgramSpider(scrapy.Spider, ABC):
         # log.info(faculties)
         for faculty in faculties:
             yield response.follow(faculty, self.parse_faculty)
+
+    @staticmethod
+    def get_program_id(url):
+        faculty_id = url.split("GakubuCD=")[1].split("&")[0]
+        if "GakkaCD" in url:
+            main_program_id = url.split("GakkaCD=")[1].split("&")[0]
+        else:
+            main_program_id = url.split("KamokuCD=")[1].split("&")[0]
+        sub_program_id = url.split("KeiCD=")[1].split("&")[0] if "KeiCD" in url else ""
+        return '_'.join([faculty_id, main_program_id, sub_program_id])
 
     def parse_faculty(self, response):
         faculty = response.xpath("//div[@id='left-menu']//li[contains(@class, 'selected')]/a/text()").getall()
@@ -43,20 +54,16 @@ class TITechProgramSpider(scrapy.Spider, ABC):
         programs = response.xpath("//div[@id='left-menu']//li[contains(@class, 'selected')]//a/@href").getall()
         programs = [p for p in programs if p != '#']
         for program in programs:
+            program_id = TITechProgramSpider.get_program_id(program)
+            if program_id in self.program_ids:
+                continue
+            self.program_ids.append(program_id)
             yield response.follow(program, self.parse_program)
 
     @staticmethod
     def parse_program(response):
 
-        # log.info(f"url: {response.url}")
-        faculty_id = response.url.split("GakubuCD=")[1].split("&")[0]
-        if "GakkaCD" in response.url:
-            main_program_id = response.url.split("GakkaCD=")[1].split("&")[0]
-        else:
-            main_program_id = response.url.split("KamokuCD=")[1].split("&")[0]
-        sub_program_id = response.url.split("KeiCD=")[1].split("&")[0] if "KeiCD" in response.url else ""
-
-        program_id = '_'.join([faculty_id, main_program_id, sub_program_id])
+        program_id = TITechProgramSpider.get_program_id(response.url)
         log.info(f"{program_id=}")
 
         program_name = response.xpath("//div[@id='left-menu']//li[contains(@class, 'selected')]//a[contains(@class, 'selected') or contains(@class, 'opened')]/span/text()").getall()
