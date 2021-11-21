@@ -103,7 +103,7 @@ def main(school: str, year: int):
     web_fn = Path(__file__).parent.absolute().joinpath(f"../../{WEB_INPUT_FOLDER}{school}_data_{year}_")
     # courses_df.to_json(f"{web_fn}heavy.json", orient='records')
     courses_df.loc[courses_df.id.isin(courses_with_matches_index)]\
-        .to_json(f"{web_fn}courses.json", orient='records', indent=1)
+        .to_json(f"{web_fn}courses.json", orient='records', indent=1, force_ascii=False)
 
     # Creating program file (only programs with score > 0)
     program_scores_fn = \
@@ -139,7 +139,7 @@ def main(school: str, year: int):
                                ]]
 
     programs_df.loc[programs_df.id.isin(programs_with_matches_index)] \
-        .to_json(f"{web_fn}programs.json", orient='records', indent=1)
+        .to_json(f"{web_fn}programs.json", orient='records', indent=1, force_ascii=False)
 
 
 if __name__ == "__main__":
