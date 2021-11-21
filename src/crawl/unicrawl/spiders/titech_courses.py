@@ -37,8 +37,10 @@ class TITechCourseSpider(scrapy.Spider, ABC):
 
         course_name = response.xpath("//h3/text()").get()
 
-        languages = response.xpath("//dt[text()='使用言語']"
-                                   "/following::dd[1]/text()").get()
+        LANG_MAP = {"日本語": "ja", "英語": "en"}
+        language = response.xpath("//dt[text()='使用言語']"
+                                  "/following::dd[1]/text()").get()
+        languages = [LANG_MAP.get(language, "other")]
 
         teachers = response.xpath("//dt[text()='担当教員名']"
                                   "/following::dd[1]/a/text()").get()
