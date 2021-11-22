@@ -5,7 +5,14 @@
             "shortName": "東工大",
             "coursesFile": "titech_data_2021_courses.json",
             "programsFile": "titech_data_2021_programs.json",
-            "teachersDirectoryUrl": "https://www.titech.ac.jp"
+            "teachersDirectoryUrl": "https://www.titech.ac.jp/0/about/faculty"
+        },
+        {
+            "name": "東京大学",
+            "shortName": "東大",
+            "coursesFile": "tokyou_data_2021_courses.json",
+            "programsFile": "tokyou_data_2021_programs.json",
+            "teachersDirectoryUrl": "https://www.u-tokyo.ac.jp/focus/ja/people/"
         }
     ]
 }
