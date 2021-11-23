@@ -8,7 +8,7 @@ from settings import YEAR, CRAWLING_OUTPUT_FOLDER
 import logging
 log = logging.getLogger()
 
-BASE_URL = 'https://www.z.k.kyoto-u.ac.jp/zenkyo/list'
+BASE_URL = 'https://www.z.k.kyoto-u.ac.jp'
 
 # Note: need to change the parameter ROBOTS_OBEY in the crawler settings.py to make the crawler work
 
@@ -25,7 +25,8 @@ class KyotoUnivProgramSpider(scrapy.Spider, ABC):
     }
 
     def start_requests(self):
-        yield scrapy.Request(url=BASE_URL, cookies={'locale': 'ja'}, callback=self.parse_main)
+        yield scrapy.Request(url=BASE_URL + '/zenkyo/list',
+                             cookies={'locale': 'ja'}, callback=self.parse_main)
 
     def parse_main(self, response):
         faculties = response.xpath("//h3/span/text()").getall()
@@ -73,7 +74,7 @@ class KyotoUnivProgramSpider(scrapy.Spider, ABC):
             "cycle": cycle,
             "faculties": [faculty],
             "campuses": [],  # didn't find information on campuses
-            "url": program_link,
+            "url": BASE_URL + program_link,
             "courses": list(set(self.courses_ids[program_link])),
             "ects": []  # ECTS not applicable in Japan
         }
