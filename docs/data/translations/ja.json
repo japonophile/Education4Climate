@@ -80,7 +80,9 @@
     },
     "cycles": {
         "bac": "学士",
-        "master": "大学院",
+        "master": "修士",
+        "doctor": "博士",
+        "grad": "大学院",
         "other": "その他"
     },
     "programs": {

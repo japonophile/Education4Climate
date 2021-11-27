@@ -20,6 +20,13 @@
             "coursesFile": "kyotou_data_2021_courses.json",
             "programsFile": "kyotou_data_2021_programs.json",
             "teachersDirectoryUrl": "https://kyouindb.iimc.kyoto-u.ac.jp/view/nlist.html"
+        },
+        {
+            "name": "東北大学",
+            "shortName": "東北大",
+            "coursesFile": "tohoku_data_2021_courses.json",
+            "programsFile": "tohoku_data_2021_programs.json",
+            "teachersDirectoryUrl": "https://www.r-info.tohoku.ac.jp/"
         }
     ]
 }
