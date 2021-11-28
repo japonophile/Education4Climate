@@ -30,11 +30,6 @@ class KyushuUnivCourseSpider(scrapy.Spider, ABC):
         for course_id in courses_ids_list:
             yield scrapy.Request(BASE_URL.format(YEAR, course_id), self.parse_course,
                                  cb_kwargs={"course_id": str(course_id)})
-        # for course_id in ["21693162", "S21642103", "21261707", "S21438092",
-        #                   "21610044", "21261750", "21425751"]:
-        #     yield scrapy.Request(BASE_URL.format(YEAR, course_id), self.parse_course,
-        #                         cb_kwargs={"course_id": str(course_id)})
-
 
     def parse_course(self, response, course_id):
         def get_sections_text(sections_names):
