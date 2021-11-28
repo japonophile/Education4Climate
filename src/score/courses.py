@@ -15,7 +15,7 @@ import re
 from settings import CRAWLING_OUTPUT_FOLDER, SCORING_OUTPUT_FOLDER
 
 # Languages for which a dictionary is defined
-ACCEPTED_LANGUAGES = ["fr", "en", "nl"]
+ACCEPTED_LANGUAGES = ["fr", "en", "nl", "ja"]
 DetectorFactory.seed = 0
 
 
@@ -128,7 +128,8 @@ def score_school_courses(school: str, year: int, output_dir: str, dictionary_nam
 
     # Clean texts
     def clean_text(text):
-        text = unidecode(text).lower()
+        # text = unidecode(text).lower()
+        text = text.lower()
         chars_to_replace = ["\r", "\t", "\n", "\xa0", ":", ";", ".", ",", "?", "!", "(", ")", "…"]
         for ch in chars_to_replace:
             text = text.replace(ch, " ")
@@ -177,7 +178,7 @@ def score_school_courses(school: str, year: int, output_dir: str, dictionary_nam
     # Save patterns
     matches_output_fn = f"{output_dir}/{school}_matches_{year}.json"
     with open(matches_output_fn, "w") as f:
-        json.dump(patterns_matches_dict, f, indent=4)
+        json.dump(patterns_matches_dict, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == "__main__":

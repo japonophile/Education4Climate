@@ -45,9 +45,17 @@ This output is saved in the same directory under the name ```{SchoolCode}_matche
 
 TODO: add explanation on dedicated courses
 
+```bash
+$ PYTHONPATH=. python src/score/courses.py -s titech -y 2021
+```
+
 ### Scoring programs
 
 Once courses are scored, a score can be computed per theme for each program by computing the number of 
 courses in that program that have score 1 in each theme.
 A table containing this information is saved in the output scoring directory under the name 
 ```{SchoolCode}_programs_scoring_{YEAR}.csv```.
+
+```bash
+$ PYTHONPATH=. python src/score/programs.py -s titech -y 2021
+```

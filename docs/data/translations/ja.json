@@ -1,0 +1,136 @@
+{
+    "menu": {
+        "programs": "専攻を探す",
+        "courses": "授業を探す",
+        "teachers": "先生を探す"
+    },
+    "shared": {
+        "schools": "大学",
+        "themes": "テーマ",
+        "fields": "分野",
+        "languages": "言語",
+        "name": "授業名",
+        "code": "授業コード : ",
+        "external-website": "ウェブサイトで見る",
+        "name-exemple": "例えば : 気候",
+        "show-filters": "フィルター表示",
+        "hide-filters": "フィルダー非表示",
+        "loading": "読み込み中",
+        "close": "閉じる",
+        "load-more": "更に読み込む",
+        "learn-more": "詳細を確認",
+        "cancel": "取消",
+        "validate": "確認",
+        "privacy-policy": "プライバシーポリシー",
+        "detail-languages": "授業言語 : ",
+        "cycles": "学位",
+        "download-results": "結果をダウンロード",
+        "report-result": "問題を報告する",
+        "google-form": "https://docs.google.com/forms/d/e/1FAIpQLScNeLPu8C7l8FGIDGZ0JpvecwHNTAuzTpmGRBkRZuTfma-foA/viewform"
+    },
+    "home": {
+        "headline-students": "脱炭素に貢献し気候問題対策に取り組むには、どこで勉強すれば良いの？",
+        "headline-teachers": "同僚または修士や学士論文指導教官をどこで探せば良いの？",
+        "beta": "このウェブサイトはまだベータ版です。フィードバックは<a href=\"https://docs.google.com/forms/d/e/1FAIpQLScNeLPu8C7l8FGIDGZ0JpvecwHNTAuzTpmGRBkRZuTfma-foA/viewform\" target=\"_blank\" rel=\"noopener\">こちらで</a>お聞かせ下さい。"
+    },
+    "themes": {
+        "environment": "環境",
+        "durability": "持続可能性",
+        "sustainability": "持続可能性",
+        "climatology": "気候学",
+        "energy": "エネルギー",
+        "consumption": "消費",
+        "society": "社会",
+        "decarbonization": "脱炭素化",
+        "climate": "気候",
+        "resources": "資源",
+        "other": "その他"
+    },
+    "fields": {
+        "Medecine & Health" : "医学",
+        "Pharmacy" : "薬剤学",
+        "Veterinary" : "獣医学",
+        "Philosophy" : "哲学",
+        "Theology" : "神学",
+        "Letters" : "文学",
+        "Arts" : "芸術",
+        "Architecture" : "建築",
+        "Engineering" : "工学",
+        "Bio-Engineering" : "生物工学",
+        "Science" : "科学",
+        "Law & Criminology" : "法学",
+        "Psychology" : "心理学",
+        "Pedagogy" : "教育学",
+        "Sociology" : "社会学",
+        "Political Sciences" : "政治学",
+        "Economy" : "経済学",
+        "Management" : "経営学",
+        "Other" : "その他"
+    },
+    "languages": {
+        "fr": "フランス語",
+        "en": "英語",
+        "nl": "オランダ語",
+        "de": "ドイツ語",
+        "ar": "アラブ語",
+        "sv": "スェーデン語",
+        "ru": "ロシア語",
+        "ja": "日本語",
+        "other": "その他"
+    },
+    "cycles": {
+        "bac": "学士",
+        "master": "修士",
+        "doctor": "博士",
+        "grad": "大学院",
+        "other": "その他"
+    },
+    "programs": {
+        "programs-of": "個の専攻が見つかりました。合計: ",
+        "detail-faculties": "学部 : ",
+        "detail-campus": "キャンパス : ",
+        "detail-cycle": "学位 : ",
+        "detail-fields": "分野 : ",
+        "detail-courses-list": "授業一覧",
+        "detail-score": "スコア : ",
+        "detail-score-tooltip": "スコアは専攻で最低一つのテーマに関連する授業数を表しています。",
+        "search-in-name": "専攻の概要で検索"
+    },
+    "courses": {
+        "courses-of": "個の授業が見つかりました。合計: ",
+        "detail-year": "年度 : ",
+        "detail-teachers": "担当教員 : ",
+        "course-name": "授業名",
+        "program-code": "授業コード",
+        "search-in-name": "事業名で検索",
+        "search-code": "事業コードで検索",
+        "code-exemple": "例えば : S2UBOE01",
+        "dedicated-course": "専用"
+    },
+    "teachers": {
+        "search-in-name": "教員名で探す",
+        "teachers-of": "人の教員が見つかりました。合計: ",
+        "name": "氏名",
+        "external-website": "大学ウェブサイトでの名簿",
+        "name-example": "例えば : 太郎"
+    },
+    "footer": {
+        "contact": "連絡",
+        "legal": "利用規約"
+    },
+    "cookies": {
+        "use-cookies": "このウェブサイトはCookieを使用しています",
+        "customize": "個別設定",
+        "accept-all": "全て承諾",
+        "reject-all": "全て却下",
+        "modal-title": "Cookieの管理",
+        "modal-intro": "以下のサービスを承諾することで、Cookieの保存・読み込みと正常動作に必要な追跡技術を認めます。",
+        "analytics-intro": "ウェブサイトのアクセス統計",
+        "analytics-cookies": "このサービスは9個のCookieまで保存します",
+        "local-storage-intro": "言語の選択",
+        "local-storage-cookies": "このサービスは1つのCookieを保存します"
+    },
+    "home-text": "<h2>我々のビジョン</h2><p>環境問題は市民、特に学生にとっての重大な関心事になっています。EUが決定した<strong>2050年までのCO<sub>2</sub>ニュートラルな社会</strong>を実現するために、産業、サービス、設備などでの大規模の投資だけでなく、環境連帯移行を実現するための<strong>専門的なスキル</strong>も必要不可欠です。</p><p><strong>日本では大学</strong>や<strong>専門学校</strong>は、<strong>環境・気候問題</strong>に取り組むことになる<strong>将来のリーダーと活動者の教育</strong>で重大な役割を持っています。各教育施設は関連するテーマをそれぞれの教育プログラムに含めるべきだと考えています。</p><h2>このウェブサイトの使い方</h2><p>Education4Climateウェブサイトで、環境や気候問題についての<strong>授業や専攻</strong>、また、それらを教えてくれる<strong>教員</strong>を探すことができます。</p><p>Education4Climateは各施設のウェブサイトに記載されている授業の情報を<strong>アルゴリズムで自動解析</strong>を行い、環境や気候問題に関係するかどうかを判断しています。アルゴリズムの詳細は<a href=\"https://github.com/japonophile/Education4Climate/tree/master/src/score\" target=\"_blank\" rel=\"noopener\">こちらで</a>公開されています。</p><h2>プロジェクト紹介</h2><p><strong>Education4Climate</strong>は日本の大学や専門学校で、気候や環境問題についての教育を<strong>推進</strong>しています。このプロジェクトの目的は、それらのテーマに関係する講座の<strong>情報共有</strong>、また、提供される教育を<strong>分析</strong>し、具体的な<strong>解決策</strong>を（今後開示される予定のレポートで）提案することです。</p><p>Education4Climateはもともとベルギーの<strong>The Shifters Belgium</strong>という非営利団体の<a href=\"#home-team\">ボランティア</a>によって成り立っています。<a href=\"https://www.sdsnbelgium.be\" target=\"_blank\" rel=\"noopener\">SDSN</a>のベルギー支部、<a href=\"https://www.theshift.be/\" target=\"_blank\" rel=\"noopener\">The Shift</a>、そして<a href=\"https://theshiftproject.org/\" target=\"_blank\" rel=\"noopener\">The Shift Project</a>のサポートを受けています。</p><p>もっと詳しく聞きたい方、或いはプロジェクトに貢献したい方はご連絡ください！</p><h2>このウェブサイトを一緒に改善しましょう！</h2><p>Education4Climateは継続的に改善しようとしています。授業や専攻を追加したい、または改善点を提案したい場合は、<a href=\"https://docs.google.com/forms/d/e/1FAIpQLScNeLPu8C7l8FGIDGZ0JpvecwHNTAuzTpmGRBkRZuTfma-foA/viewform\" target=\"_blank\" rel=\"noopener\">こちらのフォームで</a>できます。</p><h2>連絡</h2><p>Eメール : <a href=\"mailto:education4climate@theshifters.org\">education4climate@theshifters.org</a></p><h2>参照と権利</h2><p>このウェブサイトEducation4Climate.jpはベルギーのEducation4Climate.(be/org)の日本版です。</p><p>Education4Climateのアルゴリズムのコードは<a href=\"https://github.com/japonophile/Education4Climate\" target=\"_blank\" rel=\"noopener\">Github</a>で公開しております。他の国に展開する場合は、喜んでサポートしますので、ご連絡ください。</p><h2>個人情報の保護</h2><p>教員として自分の名前をEducation4Climateで開示して欲しくない場合は、<a href=\"https://docs.google.com/forms/d/e/1FAIpQLScNeLPu8C7l8FGIDGZ0JpvecwHNTAuzTpmGRBkRZuTfma-foA/viewform\" target=\"_blank\" rel=\"noopener\">こちらのフォーム</a>にてご連絡下さい。</p>",
+    "home-team": "<div class=\"row\"><h2>チーム紹介</h2><p>Education4ClimateのウェブサイトとアルゴリズムはThe Shifters Belgiumという非営利団体によって開発され、Shifters Franceの支援を受けています。</p></div><div class=\"row team-pictures\"><div class=\"col-xl-3 col-6\"><img src=\"./img/team/antoine.jpg\" alt=\"Antoine Dubois\"><h2>Antoine Dubois</h2><h3>アルゴリズム開発</h3></div><div class=\"col-xl-3 col-6\"><img src=\"./img/team/arthur.jpg\" alt=\"Arthur Prével\"><h2>Arthur Prével</h2><h3>アンケート</h3></div><div class=\"col-xl-3 col-6\"><img src=\"./img/team/denis.jpg\" alt=\"Denis Lebailly\"><h2>Denis Lebailly</h2><h3>アルゴリズム開発</h3></div><div class=\"col-xl-3 col-6\"><img src=\"./img/team/francois.jpg\" alt=\"François Collard\"><h2>François Collard</h2><h3>プロジェクトマネージャ</h3></div><div class=\"col-xl-3 col-6\"><img src=\"./img/team/noel.jpg\" alt=\"Noël Schneider\"><h2>Noël Schneider</h2><h3>アルゴリズム開発</h3></div><div class=\"col-xl-3 col-6\"><img src=\"./img/team/quentin.jpg\" alt=\"Quentin Lancrenon\"><h2>Quentin Lancrenon</h2><h3>プロジェクト支援と戦略</h3></div><div class=\"col-xl-3 col-6\"><img src=\"./img/team/quentin2.jpg\" alt=\"Quentin Vantieghem\"><h2>Quentin Vantieghem</h2><h3>ウェブ開発</h3></div><div class=\"col-xl-3 col-6\"><img src=\"./img/team/antoine2.jpg\" alt=\"ショパン アントワン\"><h2>ショパン アントワン</h2><h3>日本版</h3></div><div class=\"text-start\"><p>サポーター : David Steinmetz, Robin De Gernier, Aymeric Lamant, Laurent Eschenauer, Aric Wizenberg, Antoine Qian, Cédric Brusselmans, Martin Vermeiren, Hugo Poitoux, Luna Janssens, Laura Valgaeren, Noël van Boxtel, Luka Rüder, Ine Tryssesoone, Tine Meulemans, Anurag Sinha, Hülya Altinok と Cédric Cassiers。</p><p>以下の方が本プロジェクトを支援しています : Inge Willems (SDSN Belgium), Bart Corijn (The Shift), Clémence Vorreux (Le Shift Project) と Edwin Zaccai (ULB)。</p></div></div>",
+    "legal-text": "<h1>Mentions légales</h1><p>Les sites educations4climate.be et education4climate.org sont la propriété de :</p><p><strong>The Shifters Belgium</strong><br />Adresse : Rue Baron Lambert 21, 1040 Etterbeek, Belgium<br />Numéro de téléphone : +32 4 86 18 89 86<br />Directeur de la publication : Quentin LANCRENON</p><p>Ce site est hébergé par :</p><p><strong>GitHub</strong><br />Adresse : 88 Colin P Kelly Jr Street. 94107 San Francisco, California, USA.</p><h2>アルゴリズムの概要</h2><p>Le projet Education4Climate fonctionne grâce à un algorithme dont l’objectif est d'identifier quels cours et programmes de chaque école et université couvrent certains thèmes liés au climat et à la durabilité environnementale. Un description plus détaillée de la méthodologie peut-être trouvée ici.</p><p>La finalité de ce traitement de données est de répertorier sur notre site, à des fins d’information, les cours et programmes qui traitent les problématiques liées au climat et à la transition énergétique. La vocation de ce projet est donc d’augmenter la visibilité de ces cours et de leurs professeurs.</p><h2>このウェブサイトに記載されている情報の信頼性</h2><p>Le propriétaire du site fournit des informations à des fins purement informatives. Il s’efforce de contrôler leur exactitude et de les maintenir à jour. Mais aucune garantie n’est apportée concernant l’exactitude, la précision, la mise à jour ou l’exhaustivité de ces informations. Par conséquent, le propriétaire du site décline toute responsabilité pour tout dommage résultant notamment d’une imprécision ou inexactitude des informations disponibles sur ce site, ou pour toute atteinte résultant d’une intrusion frauduleuse d’un tiers sur ce site, ou encore pour tout dommage ou virus qui pourrait endommager ou rendre inutilisable votre équipement informatique suite à la visite de ce site.</p><p>Le propriétaire du site ne pourra être tenu responsable en cas d’indisponibilité du site pour quelque cause que ce soit.</p><h2>個人情報の修正・削除の権利について</h2><p>En tant que professeur universitaire référencé sur notre site, vous disposez d’un droit d’accès, de modification et de suppression de vos données personnelles. Pour exercer vos droits, il vous suffit simplement de nous contacter par e-mail à l’adresse: <a href=\"mailto:education4climate@theshifters.org\">education4climate@theshifters.org</a></p><h2>他のウェブサイトへのリンク</h2><p>Afin de faciliter l’accès aux présentations des cours référencés, le propriétaire du site a inséré un certain nombre de liens vers des sites tiers. Cependant, il n’est pas responsable de l’indisponibilité des sites tiers, de leur contenu, publicité ou autres éléments disponibles sur ces sites. La responsabilité du propriétaire de ce site ne saurait donc être engagée au titre d’un site tiers auquel vous auriez pu avoir accès.</p><h2>著作権</h2><p>Ce site respecte les droits d’auteur. Tous les droits des auteurs des cours universitaires référencés sur ce site sont réservés.</p><h2>Cookies</h2><p>Les cookies sont des petits fichiers d'informations qui sont automatiquement stockés sur le disque dur de votre ordinateur lorsque vous visitez un site Web et qui contiennent un numéro d'identification unique.</p><p>Ces cookies facilitent la visite du site Web en question par l'utilisateur et la navigation sur ce site. Ils peuvent servir à adapter le site à vos préférences personnelles (langue) et permettent également d'analyser l'utilisation d'un site Web.</p><p>La configuration de la plupart des navigateurs vous offre la possibilité d’accepter ou de refuser les cookies et de vous avertir chaque fois qu’un cookie est utilisé. Vous pouvez refuser les cookies, bien que cela puisse affecter une pratique de navigation optimale et les fonctionnalités des services proposés sur le site. Vous pouvez trouver plus d'informations dans la fonction d'aide de votre navigateur.</p><p>Lorsque vous visitez notre site, certains cookies sont stockés sur votre navigateur à savoir les cookies nécessaires au fonctionnement du site et les cookies à des fins statistiques (Google Analytics).</p><p>Vous trouverez dans <a href=\"https://support.google.com/analytics/answer/6004245?hl=fr\" target=\"_blank\" rel=\"noopener\">cet article</a> un récapitulatif de la façon dont nous utilisons les données dans le cadre de Google Analytics, ainsi que de notre engagement à garantir leur confidentialité et leur sécurité.</p>"
+}
