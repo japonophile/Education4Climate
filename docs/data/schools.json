@@ -27,6 +27,13 @@
             "coursesFile": "tohoku_data_2021_courses.json",
             "programsFile": "tohoku_data_2021_programs.json",
             "teachersDirectoryUrl": "https://www.r-info.tohoku.ac.jp/"
+        },
+        {
+            "name": "九州大学",
+            "shortName": "九大",
+            "coursesFile": "kyushu_data_2021_courses.json",
+            "programsFile": "kyushu_data_2021_programs.json",
+            "teachersDirectoryUrl": "https://hyoka.ofc.kyushu-u.ac.jp/search/index.html"
         }
     ]
 }
