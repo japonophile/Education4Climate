@@ -1,0 +1,1840 @@
+[
+ {
+  "id":"202101737",
+  "name":"2021年度　基礎分析化学   Basic Analytical Chemistry",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "岡田 哲男"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202101737",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202101740",
+  "name":"2021年度　安全の化学   Chemistry for Safety",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小野 公輔"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202101740",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202101750",
+  "name":"2021年度　基礎分析化学演習   Exercise in Basic Analytical Chemistry",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "岡田 哲男"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202101750",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202101806",
+  "name":"2021年度　火山学   Volcanology",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小川 康雄"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202101806",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202101808",
+  "name":"2021年度　生物地球科学   Biogeoscience",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "上野 雄一郎"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202101808",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202101906",
+  "name":"2021年度　熱力学（機械） A   Thermodynamics (Mechanical Engineering) A",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "村上 陽一"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202101906",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202101948",
+  "name":"2021年度　電磁アクチュエータ学   Electromagnetic Actuators",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "藤田 英明"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202101948",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102005",
+  "name":"2021年度　電力デバイス   Power devices",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "波多野 睦子"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102005",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102017",
+  "name":"2021年度　パワーエレクトロニクス   Power Electronics",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "萩原 誠"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102017",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102025",
+  "name":"2021年度　電気機器工学   Electric Machinery and apparatus",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "萩原 誠"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102025",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102121",
+  "name":"2021年度　持続可能社会・経済論   Theory of Sustainable Society and Economy",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "増井 利彦"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102121",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102123",
+  "name":"2021年度　環境経済学   Environmental Economics",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "棟居 洋介"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102123",
+  "themes":[
+   "sustainability",
+   "resources",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102182",
+  "name":"2021年度　環境の科学   Environmental Science",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "宮内 雅浩"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102182",
+  "themes":[
+   "sustainability",
+   "energy",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102331",
+  "name":"2021年度　基礎自然共生科学   Introduction to Environmental Chemistry and Science",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "横井 俊之"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102331",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102329",
+  "name":"2021年度　地球の化学   Introduction to Geochemistry",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "豊田 栄"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102329",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102332",
+  "name":"2021年度　環境エネルギー概論   Introduction to Environmental and Energy Process",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "下山 裕介"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102332",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102521",
+  "name":"2021年度　光合成科学   Photosynthesis and photobiology",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "増田 真二"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102521",
+  "themes":[
+   "energy",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102561",
+  "name":"2021年度　建築学実験第一   Environmental and Structural Engineering Laboratory I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 徹"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102561",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102599",
+  "name":"2021年度　建築環境設備学（建築設備）   Building Services",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "湯淺 和博"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102599",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102593",
+  "name":"2021年度　国土・都市計画論   National and City Planning",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "中井 検裕"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102593",
+  "themes":[
+   "energy",
+   "climate",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102600",
+  "name":"2021年度　建築環境設備学（応用）   Applied Environmental Engineering and Building Services",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "湯淺 和博"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102600",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102603",
+  "name":"2021年度　建築環境計測   Environmental Laboratory",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "湯淺 和博"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102603",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102623",
+  "name":"2021年度　土木計画学基礎   Fundamentals of Infrastructure Planning",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "瀬尾 亨"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102623",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102640",
+  "name":"2021年度　土木工学英語第一   Civil Engineering English I",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "WIJEYEWICKREMA ANIL CHRISTOPHER"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102640",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102643",
+  "name":"2021年度　土木工学英語第四   Civil Engineering English IV",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "WIJEYEWICKREMA ANIL CHRISTOPHER"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102643",
+  "themes":[
+   "energy",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102636",
+  "name":"2021年度　地盤調査・施工学   Geotechnical Engineering in Practice",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "北詰 昌樹"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102636",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102652",
+  "name":"2021年度　土木と環境の計画理論   Planning Theory for Civil and Environmental Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "屋井 鉄雄"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102652",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102660",
+  "name":"2021年度　環境計画プロジェクト演習   Environmental Planning Project",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "吉村 千洋"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102660",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102661",
+  "name":"2021年度　社会基盤と環境-概論   Introduction to Infrastructure and Environment",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "室町 泰徳"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102661",
+  "themes":[
+   "energy",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102657",
+  "name":"2021年度　水環境工学   Water Environmental Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "吉村 千洋"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102657",
+  "themes":[
+   "resources",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102662",
+  "name":"2021年度　国土・都市計画概論   Introduction to National Land Use and City Planning",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "朝倉 康夫"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102662",
+  "themes":[
+   "energy",
+   "climate",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102656",
+  "name":"2021年度　水理学第二   Hydraulics II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "鼎 信次郎"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102656",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102702",
+  "name":"2021年度　システムデザイン＆アセスメント   System Design & Impact Assessment",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "村山 武彦"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102702",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102712",
+  "name":"2021年度　気象学基礎   Introduction to Meteorology",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "神田 学"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102712",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102710",
+  "name":"2021年度　社会環境政策概論   Introduction to Environmental Policy and Social System",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "村山 武彦"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102710",
+  "themes":[
+   "energy",
+   "resources",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102709",
+  "name":"2021年度　資源・エネルギー工学概論   Theory of Resource and Energy Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "中崎 清彦"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102709",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102720",
+  "name":"2021年度　地球・地域生態学概論   Introduction to global and local ecology",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "中村 隆志"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102720",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102914",
+  "name":"2021年度　触媒化学特論   Advanced Course of Catalytic Chemistry",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "原 亨和"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102914",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202102973",
+  "name":"2021年度　材料工学環境論   Materials Engineering and Ecology",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山本 佳世子"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102973",
+  "themes":[
+   "energy",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202102990",
+  "name":"2021年度　高分子バイオマテリアル   Polymeric Biomaterials",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "柘植 丈治"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202102990",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103042",
+  "name":"2021年度　物質循環特論   Advanced Material Cycle Analysis",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "豊田 栄"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103042",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103077",
+  "name":"2021年度　環境調和触媒   Catalysis for the Environmental Issues",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "横井 俊之"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103077",
+  "themes":[
+   "energy",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103076",
+  "name":"2021年度　環境化学   Environmental Chemistry",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "豊田 栄"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103076",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103162",
+  "name":"2021年度　生物資源科学   Science of Biological Resources",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "田中 寛"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103162",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103183",
+  "name":"2021年度　国際コラボレーション   International Collaboration",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "竹村 次朗"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103183",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103198",
+  "name":"2021年度　水環境科学   Aquatic Environmental Science",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "吉村 千洋"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103198",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103200",
+  "name":"2021年度　環境統計学   Environmental Statistics",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "吉村 千洋"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103200",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103199",
+  "name":"2021年度　水資源システム   Water Resource Systems",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "鼎 信次郎"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103199",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103205",
+  "name":"2021年度　岩盤工学   Rock Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹村 次朗"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103205",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103201",
+  "name":"2021年度　地盤環境工学   Geo-environmental Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "竹村 次朗"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103201",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103265",
+  "name":"2021年度　熱環境工学基礎   Basic Engineering on Thermal Environment",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "淺輪 貴史"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103265",
+  "themes":[
+   "energy",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103274",
+  "name":"2021年度　持続可能な都市環境特論第二   Sustainable Built Environment II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 秀樹"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103274",
+  "themes":[
+   "energy",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103278",
+  "name":"2021年度　計画理論   Planning Theory",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "坂野 達郎"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103278",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103282",
+  "name":"2021年度　地震津波災害軽減   Earthquake and Tsunami Disaster Reduction",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "盛川 仁"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103282",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103315",
+  "name":"2021年度　都市設備特論   Urban Energy Services",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "湯淺 和博"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103315",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103325",
+  "name":"2021年度　熱環境工学応用   Applied Engineering on Thermal Environment",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "淺輪 貴史"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103325",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103333",
+  "name":"2021年度　確率過程論   Basics of Stochastic Process for Earthquake Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "盛川 仁"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103333",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103376",
+  "name":"2021年度　科学技術社会分野特論F1B   Graduate Lecture in Science, Technology and Society F1B",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "BEKTAS YAKUP"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103376",
+  "themes":[
+   "energy",
+   "climate",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103546",
+  "name":"2021年度　リスク・クライシスマネジメント I   Risk and Crisis Management I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "池上 雅子"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103546",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202103552",
+  "name":"2021年度　エネルギー技術と経済・社会システム I   Energy Technology and Social System I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "後藤 美香"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103552",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103553",
+  "name":"2021年度　エネルギー技術と経済・社会システム II   Energy Technology and Social System II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "後藤 美香"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103553",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202103622",
+  "name":"2021年度　コミュニケーションデザイン論   Communication Design: Theory & Practice",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "西條 美紀"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202103622",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202104066",
+  "name":"2021年度　エネルギーデバイス論第二 大岡山   Interdisciplinary principles of energy devices 2 大岡山",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "和田 裕之"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104066",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104069",
+  "name":"2021年度　エネルギーシステム論 大岡山   Energy system theory 大岡山",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "末包 哲也"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104069",
+  "themes":[
+   "energy",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104070",
+  "name":"2021年度　エネルギーシステム経済論   Economy of energy system",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "時松 宏治"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104070",
+  "themes":[
+   "energy",
+   "resources",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104079",
+  "name":"2021年度　無機エネルギー変換材料特論   Energy Conversion Ceramics Materials",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "宮内 雅浩"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104079",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104081",
+  "name":"2021年度　乱流制御論   Advanced course of turbulent flow and control",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "店橋 護"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104081",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202104083",
+  "name":"2021年度　機械電気エネルギー変換   Mechanical-to-electrical energy conversion",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "藤田 英明"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104083",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104146",
+  "name":"2021年度　先端エネルギー技術   Leading edge energy technology",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "平井 秀一郎"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104146",
+  "themes":[
+   "sustainability",
+   "energy",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104155",
+  "name":"2021年度　光起電力の基礎   Introduction to Photovoltaics",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "宮島 晋介"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104155",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202104163",
+  "name":"2021年度　科学技術特論   Advanced Science and Technology in Energy and Environment",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "奥野 喜裕"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104163",
+  "themes":[
+   "energy",
+   "climate",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202104788",
+  "name":"2021年度　地球環境と経済発展のモデリング   Modeling of Global Environment and Economic Growth",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "金森 有子"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104788",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104789",
+  "name":"2021年度　環境経済・政策論   Frontier of Environmental Economics and Policy Studies",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "増井 利彦"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104789",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104921",
+  "name":"2021年度　パッシブデザイン特論   Passive Solar Design",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "村田 涼"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104921",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202104943",
+  "name":"2021年度　建築環境設備学特論   Advanced Course on Environmental Engineering and Building Services",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "湯淺 和博"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104943",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104944",
+  "name":"2021年度　環境保全工学第一   Environmental Preservation Engineering I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "湯淺 和博"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104944",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202104946",
+  "name":"2021年度　空気清浄特論   Air Quality Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "鍵 直樹"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104946",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202104989",
+  "name":"2021年度　プロジェクトデザイン＆マネジメント S   Project Design & Management S",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "花岡 伸也"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104989",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202104991",
+  "name":"2021年度　プロジェクトデザイン＆マネジメント F   Project Design & Management F",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "時松 宏治"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104991",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202104994",
+  "name":"2021年度　エネルギー・資源の有効利用技術   Technologies for Energy and Resource Utilization",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "高橋 史武"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202104994",
+  "themes":[
+   "resources"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202105000",
+  "name":"2021年度　環境政策論   Environmental Policy",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "村山 武彦"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202105000",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202105001",
+  "name":"2021年度　資源環境技術のシステムと経済学概論   The economics and systems analysis of environment, resources and technology",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "時松 宏治"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202105001",
+  "themes":[
+   "sustainability",
+   "resources",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202105050",
+  "name":"2021年度　経済発展と環境対策の歴史と現在の課題   History and Current Issues of Economic Development and Environmental Protection",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "佐藤 由利子"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202105050",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202105051",
+  "name":"2021年度　環境アセスメント   Environmental Impact Assessment",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "錦澤 滋雄"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202105051",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202105070",
+  "name":"2021年度　都市化と防災マネジメント   Coastal Disaster Mitigation for Engineers and Planners",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "高木 泰士"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202105070",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202105072",
+  "name":"2021年度　メガシティーの大気環境学   Atmospheric Environment in Megacities",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "神田 学"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202105072",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202106711",
+  "name":"2021年度　ライフエンジニアリング特別講義第一   Advanced Research Topics for Life Innovation I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "西村 涼"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202106711",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202106908",
+  "name":"2021年度　電力工学特論   Advanced Electric Power Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山本 竜太郎"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202106908",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202107994",
+  "name":"2021年度　電気法規および施設管理   Regulation and Operational Management of Electric Power Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "清田 恭平"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202107994",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202108254",
+  "name":"2021年度　燃料電池・太陽電池・蓄電電池・エネルギーシステムの最新技術   Recent technologies of fuel cells, solar cells butteries and energy system",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "伊原 学"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202108254",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202108604",
+  "name":"2021年度　エネルギーデバイス論第二 すずかけ   Interdisciplinary principles of energy devices 2 すずかけ",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "和田 裕之"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202108604",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202108607",
+  "name":"2021年度　水質化学   Water Chemistry",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "藤井 学"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202108607",
+  "themes":[
+   "sustainability",
+   "resources",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202108826",
+  "name":"2021年度　材料科学入門   Introduction to solid materials",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "CHAI YAW WANG"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202108826",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202108828",
+  "name":"2021年度　先進材料概論   Introduction of Advanced Materials",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "林 智広"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202108828",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202111259",
+  "name":"2021年度　地球化学特論   Advanced Geochemistry",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "豊田 栄"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202111259",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202111975",
+  "name":"2021年度　エネルギー変換工学   Energy Conversion",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伏信 一慶"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202111975",
+  "themes":[
+   "energy",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202112740",
+  "name":"2021年度　エネルギー経済・政策特別講義   Special lecture of economics and politics in energy",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "時松 宏治"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202112740",
+  "themes":[
+   "energy",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202113685",
+  "name":"2021年度　環境浄化工学実験   Environmental Cleanup Laboratory",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 希"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202113685",
+  "themes":[
+   "resources",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202113985",
+  "name":"2021年度　電力エネルギー変換工学   Energy and Electric Power Conversion Technology",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小栗 慶之"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202113985",
+  "themes":[
+   "energy",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202116492",
+  "name":"2021年度　放射性物質環境動態実習   Environmental Dynamics of Radioactive Material",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "竹下 健二"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202116492",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202116493",
+  "name":"2021年度　地球環境とエネルギーシステム   Global Environment and Energy Systems",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "加藤 之貴"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202116493",
+  "themes":[
+   "energy",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202117018",
+  "name":"2021年度　応用化学最前線第一   Frontiers of Chemical Science and Engineering I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "橘 熊野"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202117018",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202117024",
+  "name":"2021年度　工業化学   Industrial chemistry",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "ANDREWS EDEN MARIQUIT"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202117024",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202117031",
+  "name":"2021年度　地域・地球環境概論第１   Basic theory of regional and global environment 1",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "神田 学"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202117031",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202117032",
+  "name":"2021年度　地域・地球環境概論第２   Basic theory of regional and global environment 2",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "神田 学"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202117032",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202117454",
+  "name":"2021年度　原子核工学基礎第３   Basic Nuclear Engineering 3",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "長谷川 純"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202117454",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202117464",
+  "name":"2021年度　日本の都市計画・都市開発   Urban Planning and Development in Japan",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "中井 検裕"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202117464",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"202126419",
+  "name":"2021年度　環境高分子化学   Environmentally-Friendly Polymer Chemistry",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "佐藤 浩太郎"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202126419",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202130293",
+  "name":"2021年度　環境研究のための地理情報解析   Geospatial data analysis for environment studies",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "VARQUEZ ALVIN CHRISTOPHER GALANG"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202130293",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"202130332",
+  "name":"2021年度　自動車交通システムと環境負荷   Automobile Transportation System and Environmental Impact",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "佐藤 進"
+  ],
+  "url":"http:\/\/www.ocw.titech.ac.jp\/index.php?module=General&action=T0300&JWC=202130332",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ }
+]
