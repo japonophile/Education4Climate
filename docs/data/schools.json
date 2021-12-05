@@ -34,6 +34,13 @@
             "coursesFile": "kyushu_data_2021_courses.json",
             "programsFile": "kyushu_data_2021_programs.json",
             "teachersDirectoryUrl": "https://hyoka.ofc.kyushu-u.ac.jp/search/index.html"
+        },
+        {
+            "name": "北海道大学",
+            "shortName": "北大",
+            "coursesFile": "hokkaidou_data_2021_courses.json",
+            "programsFile": "hokkaidou_data_2021_programs.json",
+            "teachersDirectoryUrl": "https://www.let.hokudai.ac.jp/research/staff"
         }
     ]
 }
