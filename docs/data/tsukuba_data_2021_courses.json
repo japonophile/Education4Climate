@@ -1195,8 +1195,8 @@
   ],
   "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01DR256\/jpn\/",
   "themes":[
-   "resources",
-   "environment"
+   "environment",
+   "resources"
   ],
   "dedicated":1
  },
@@ -1364,8 +1364,8 @@
   ],
   "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AF352\/jpn\/",
   "themes":[
-   "resources",
-   "environment"
+   "environment",
+   "resources"
   ],
   "dedicated":1
  },
@@ -1744,8 +1744,8 @@
   ],
   "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AA3013\/jpn\/",
   "themes":[
-   "resources",
-   "environment"
+   "environment",
+   "resources"
   ],
   "dedicated":1
  },
@@ -1761,9 +1761,9 @@
   ],
   "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AA3014\/jpn\/",
   "themes":[
-   "resources",
    "environment",
-   "sustainability"
+   "sustainability",
+   "resources"
   ],
   "dedicated":0
  },
@@ -2845,8 +2845,8 @@
   ],
   "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT049\/jpn\/",
   "themes":[
-   "resources",
-   "sustainability"
+   "sustainability",
+   "resources"
   ],
   "dedicated":0
  },
@@ -3676,8 +3676,8 @@
   ],
   "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC33591\/jpn\/",
   "themes":[
-   "resources",
-   "sustainability"
+   "sustainability",
+   "resources"
   ],
   "dedicated":1
  },
@@ -3849,8 +3849,8 @@
   ],
   "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC35101\/jpn\/",
   "themes":[
-   "resources",
-   "environment"
+   "environment",
+   "resources"
   ],
   "dedicated":0
  },
@@ -4522,8 +4522,8 @@
   ],
   "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/VB20001\/jpn\/",
   "themes":[
-   "resources",
-   "sustainability"
+   "sustainability",
+   "resources"
   ],
   "dedicated":1
  },
