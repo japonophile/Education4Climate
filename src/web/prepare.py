@@ -81,7 +81,7 @@ def main(school: str, year: int):
     # Load program crawling output
     programs_fn = \
         Path(__file__).parent.absolute().joinpath(f"../../{CRAWLING_OUTPUT_FOLDER}{school}_programs_{year}.json")
-    programs_df = pd.read_json(open(programs_fn, 'r'))
+    programs_df = pd.read_json(open(programs_fn, 'r'), dtype={'id': str})
 
     # By default, some keys like "ects", "faculties" and "campuses" should be associated to programs
     # But in some cases, they are associated to courses.
