@@ -1,0 +1,4619 @@
+[
+ {
+  "id":"01AB316",
+  "name":"農業経営学及び関連産業経営学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "納口 るり子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB316\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AB328",
+  "name":"森林資源経済学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "立花 敏"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB328\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AB330",
+  "name":"森林資源経済学演習I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "立花 敏"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB330\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AB331",
+  "name":"森林資源経済学演習II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "立花 敏"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB331\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AB378",
+  "name":"環境コロイド界面工学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "足立 泰久",
+   "小林 幹佳"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB378\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AB420",
+  "name":"植生・気候変動影響学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 哲哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB420\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AB421",
+  "name":"植生・気候変動影響学演習I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 哲哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB421\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AB422",
+  "name":"植生・気候変動影響学演習II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 哲哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB422\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AB423",
+  "name":"植生・気候変動影響学特別研究I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 哲哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB423\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AB424",
+  "name":"植生・気候変動影響学特別研究II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 哲哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB424\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AB767",
+  "name":"農村開発政策・計画論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "茂野 隆一",
+   "立花 敏",
+   "伊藤 太一",
+   "加藤 盛夫",
+   "野口 良造",
+   "首藤 久人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB767\/jpn\/",
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AB773",
+  "name":"Introduction to Sustainable Agriculture in Rural Areas",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "トファエル アハメド"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB773\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AB774",
+  "name":"Concept of Sustainability Index",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "トファエル アハメド"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB774\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AB843",
+  "name":"海洋システム環境工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内海 真生"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AB843\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AC122",
+  "name":"地域動態論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山下 亜紀郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AC122\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AC123",
+  "name":"地域生態論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   ""
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AC123\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AC167",
+  "name":"Hillslope geomorphology and hazards",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "パークナー トーマス"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AC167\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AC192",
+  "name":"地形学特別講義II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "池田 敦",
+   "八反地 剛",
+   "関口 智寛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AC192\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AC202",
+  "name":"水環境論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AC202\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AC241",
+  "name":"気候学研究法",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "植田 宏昭",
+   "原田 真理子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AC241\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AC245",
+  "name":"大気循環論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "田中 博"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AC245\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD111",
+  "name":"Introduction to Environmental Sciences",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "環境科学学位プログラム担当教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD111\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD112",
+  "name":"Exercises in Environmental Sciences",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "環境科学学位プログラム担当教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD112\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD201",
+  "name":"環境フィールド実習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣田 充",
+   "横井 智之",
+   "奈佐原 顕郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD201\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD214",
+  "name":"大気汚染学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "高見 昭憲",
+   "菅田 誠治",
+   "永島 達也"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD214\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD227",
+  "name":"環境生態生化学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山路 恵子",
+   "春原 由香里"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD227\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD230",
+  "name":"環境政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "國光 洋二",
+   "水野谷 剛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD230\/jpn\/",
+  "themes":[
+   "climate",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD232",
+  "name":"環境政策概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "甲斐田 直子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD232\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD234",
+  "name":"水環境論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD234\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD316",
+  "name":"Climate System Study I",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "釜江 陽一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD316\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD319",
+  "name":"Climate System Study I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "釜江 陽一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD319\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD412",
+  "name":"水域生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "大森 裕子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD412\/jpn\/",
+  "themes":[
+   "climate",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AD414",
+  "name":"保全生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "横井 智之"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD414\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AD430",
+  "name":"Environmental Law",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "朝賀 広伸",
+   "水野谷 剛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD430\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD525",
+  "name":"環境防災計画論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内田 太郎",
+   "辻村 真貴",
+   "山越 隆雄",
+   "平田 遼",
+   "杉本 宏之",
+   "瀧口 茂隆"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD525\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD526",
+  "name":"環境防災政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内田 太郎",
+   "辻村 真貴",
+   "田中 秀基"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD526\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD601",
+  "name":"Applied Environmental Ethics (Introduction to English Presentation and Debate )",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 健一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD601\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AD614",
+  "name":"Simulation of Environmental Policy",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "水野谷 剛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AD614\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AE234",
+  "name":"生態学セミナーBII",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "徳永 幸彦",
+   "田中 健太",
+   "廣田 充",
+   "津田 吉晃",
+   "大橋 一晴",
+   "佐藤 幸恵",
+   "和田 茂樹",
+   "Harvey Benjamin Paul",
+   "アゴスティーニ シルバン レオナー ジョージ",
+   "ポルジオ ルチア"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AE234\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AH001",
+  "name":"山岳科学概論A",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "上野 健一",
+   "津村 義彦",
+   "池田 敦",
+   "廣田 充",
+   "山中 勤",
+   "佐藤 幸恵",
+   "山川 陽祐",
+   "田中 健太"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH001\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AH002",
+  "name":"山岳科学概論B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "清野 達之",
+   "吉田 正人",
+   "呉羽 正昭",
+   "立花 敏"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH002\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AH010",
+  "name":"山岳環境インターンシップI",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "津田 吉晃",
+   "廣田 充"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH010\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AH011",
+  "name":"山岳環境インターンシップII",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣田 充",
+   "津田 吉晃"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH011\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AH206",
+  "name":"生態系生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣田 充",
+   "横井 智之"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH206\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AH209",
+  "name":"環境フィールド実習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣田 充",
+   "横井 智之",
+   "奈佐原 顕郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH209\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AH305",
+  "name":"Hillslope Geomorphology and Hazards",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "パークナー トーマス"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH305\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01AH308",
+  "name":"水環境論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH308\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AH404",
+  "name":"Applied Environmental Ethics (Introduction to English Presentation and Debate)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 健一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH404\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AH407",
+  "name":"環境防災計画論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内田 太郎",
+   "辻村 真貴",
+   "山越 隆雄",
+   "平田 遼",
+   "杉本 宏之",
+   "瀧口 茂隆"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH407\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AH408",
+  "name":"環境防災政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内田 太郎",
+   "辻村 真貴",
+   "田中 秀基"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH408\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01AH409",
+  "name":"自然保護論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "吉田 正人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01AH409\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability",
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01B5722",
+  "name":"地誌学特講II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "井田 仁康"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01B5722\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01BF257",
+  "name":"応用システム特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "磯部 高範"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01BF257\/jpn\/",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01BG432",
+  "name":"基礎物理化学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 正美"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01BG432\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01CF308",
+  "name":"都市リスクマネジメント論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "梅本 通孝",
+   "木下 陽平"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01CF308\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01CF310",
+  "name":"レジリエント都市計画演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木下 陽平",
+   "鈴木 勉",
+   "谷口 綾子",
+   "梅本 通孝"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01CF310\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01CF311",
+  "name":"災害リスク・レジリエンス論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "藤原 広行",
+   "酒井 直樹",
+   "臼田 裕一郎",
+   "青井 真",
+   "前田 宜浩",
+   "藤田 英輔",
+   "山口 悟",
+   "三隅 良平",
+   "木下 陽平"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01CF311\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01CF411",
+  "name":"エネルギー・環境モデリング演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "鈴木 研悟"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01CF411\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01CF413",
+  "name":"環境・エネルギー・安全工学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "加藤 和彦",
+   "田原 聖隆",
+   "山本 博巳",
+   "歌川 学",
+   "頭士 泰之",
+   "岡島 敬一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01CF413\/jpn\/",
+  "themes":[
+   "sustainability",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01CM323",
+  "name":"環境流体工学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "白川 直樹",
+   "傳田 正利",
+   "京藤 敏達",
+   "武若 聡",
+   "大楽 浩司"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01CM323\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01CM440",
+  "name":"再生可能エネルギー工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "安芸 裕久"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01CM440\/jpn\/",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01CM909",
+  "name":"構造エネルギー工学特別講義IX",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "市川 和芳"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01CM909\/jpn\/",
+  "themes":[
+   "climate",
+   "sustainability",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01CN205",
+  "name":"都市リスクマネジメント論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "梅本 通孝",
+   "木下 陽平"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01CN205\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01DF609",
+  "name":"公共政策およびマネージメントの基礎",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "キンポ ネイサン"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01DF609\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01DP649",
+  "name":"比較政治論IIA",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "キンポ ネイサン"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01DP649\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01DR242",
+  "name":"グローバル社会と日本(法と現代社会)1B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "宮坂 渉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01DR242\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01DR244",
+  "name":"グローバル社会と日本(法と現代社会)2B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "宮坂 渉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01DR244\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01DR255",
+  "name":"グローバル環境と日本経済1B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "生藤 昌子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01DR255\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01DR256",
+  "name":"グローバル環境と日本経済2A",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "生藤 昌子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01DR256\/jpn\/",
+  "themes":[
+   "resources",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01DZ108",
+  "name":"開発政治論I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "キンポ ネイサン"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01DZ108\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01DZ677",
+  "name":"公共政策およびマネージメントの基礎",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "キンポ ネイサン"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01DZ677\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01EC549",
+  "name":"World Heritage and International Cooperation (世界遺産と国際協力)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "飯田 義彦",
+   "吉田 正人",
+   "池田 真利子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01EC549\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01EC551",
+  "name":"World Heritage and Sustainability(世界遺産と持続可能性)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "飯田 義彦",
+   "吉田 正人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01EC551\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01EH434",
+  "name":"スポーツ社会学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "清水 諭"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01EH434\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01ER432",
+  "name":"環境と産業衛生",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "国立台湾大学教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01ER432\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"01KA421",
+  "name":"現代マーケティング論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "西尾 チヅル"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01KA421\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"01RC405",
+  "name":"環境医学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "熊谷 嘉人",
+   "新開 泰弘"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/01RC405\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"02AF111",
+  "name":"環境政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "國光 洋二",
+   "水野谷 剛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AF111\/jpn\/",
+  "themes":[
+   "climate",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"02AF352",
+  "name":"森林環境政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "興梠 克久"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AF352\/jpn\/",
+  "themes":[
+   "resources",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"02AF365",
+  "name":"海洋システム環境工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内海 真生"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AF365\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"02AL501",
+  "name":"Special Seminar on Arid Land Resources Science",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "江前 敏晴",
+   "トファエル アハメド"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AL501\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02AM058",
+  "name":"植生・気候変動影響学講究I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 哲哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AM058\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"02AM059",
+  "name":"植生・気候変動影響学講究II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 哲哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AM059\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"02AM060",
+  "name":"植生・気候変動影響学講究III",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 哲哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AM060\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"02AM501",
+  "name":"Special Seminar on Arid Land Resources Science",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "大井 洋",
+   "田村 憲司"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AM501\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02AR074",
+  "name":"地形学特殊講義II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "池田 敦",
+   "八反地 剛",
+   "関口 智寛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AR074\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02AR094",
+  "name":"水文科学特殊講義II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "杉田 倫明",
+   "辻村 真貴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02AR094\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02ES015",
+  "name":"景観生態保全特別研究",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "飯田 義彦"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02ES015\/jpn\/",
+  "themes":[
+   "climate",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02JZ001",
+  "name":"自然保護論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "吉田 正人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02JZ001\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability",
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02JZ003",
+  "name":"保護地域管理論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "武 正憲"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02JZ003\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02JZ014",
+  "name":"International Cooperation for Environment",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "飯田 義彦",
+   "吉田 正人",
+   "池田 真利子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02JZ014\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02JZ016",
+  "name":"Environment and Sustainability",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "飯田 義彦",
+   "吉田 正人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02JZ016\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"02JZ020",
+  "name":"生態系の保全と復元",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "佐伯 いく代"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/02JZ020\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0A00102",
+  "name":"環境倫理学概論",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "松井 健一",
+   "渡邉 和男"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0A00102\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0A00312",
+  "name":"地球規模課題と国際社会: 海洋環境変動と生命",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "稲葉 一男",
+   "白岩 善博"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0A00312\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0A00501",
+  "name":"生物多様性と地球環境",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "大澤 良",
+   "林 久喜",
+   "國府方 吾郎",
+   "海老原 淳"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0A00501\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0A00505",
+  "name":"自然災害にどう向き合うか",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "白川 直樹"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0A00505\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0A0A002",
+  "name":"自然保護論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "吉田 正人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0A0A002\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability",
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0A0A004",
+  "name":"保護地域管理論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "武 正憲"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0A0A004\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0A0A013",
+  "name":"生態系の保全と復元",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "佐伯 いく代"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0A0A013\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AA3013",
+  "name":"環境とマクロ経済学1",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "生藤 昌子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AA3013\/jpn\/",
+  "themes":[
+   "resources",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AA3014",
+  "name":"The Environment and Macroeconomics 1",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "生藤 昌子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AA3014\/jpn\/",
+  "themes":[
+   "resources",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ABC621",
+  "name":"開発人類学演習B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "関根 久雄"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ABC621\/jpn\/",
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ABE076",
+  "name":"法と現代社会1B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "宮坂 渉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ABE076\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ABE362",
+  "name":"環境とマクロ経済学2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "生藤 昌子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ABE362\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ABE363",
+  "name":"The Environment and Macroeconomics 2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "生藤 昌子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ABE363\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ABE376",
+  "name":"法と現代社会2B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "宮坂 渉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ABE376\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ADM108",
+  "name":"環境マーケティング",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "西尾 チヅル"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ADM108\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AFL415",
+  "name":"環境法",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小島 延夫"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AFL415\/jpn\/",
+  "themes":[
+   "climate",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AH0203",
+  "name":"再生可能エネルギー工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "安芸 裕久"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AH0203\/jpn\/",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AH0316",
+  "name":"Introduction to Environmental Sciences",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "環境科学学位プログラム担当教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AH0316\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AJJA25",
+  "name":"応用システム特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "磯部 高範"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AJJA25\/jpn\/",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AJMD09",
+  "name":"基礎物理化学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 正美"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AJMD09\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AJNDA9",
+  "name":"基礎物理化学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 正美"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AJNDA9\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AL5300",
+  "name":"エネルギー・環境モデリング演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "鈴木 研悟"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AL5300\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AL5312",
+  "name":"レジリエント都市計画演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木下 陽平",
+   "鈴木 勉",
+   "谷口 綾子",
+   "梅本 通孝"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AL5312\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AL5313",
+  "name":"環境・エネルギー・安全工学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "加藤 和彦",
+   "田原 聖隆",
+   "山本 博巳",
+   "歌川 学",
+   "頭士 泰之",
+   "岡島 敬一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AL5313\/jpn\/",
+  "themes":[
+   "sustainability",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AL5315",
+  "name":"災害リスク・レジリエンス論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "藤原 広行",
+   "酒井 直樹",
+   "臼田 裕一郎",
+   "青井 真",
+   "前田 宜浩",
+   "藤田 英輔",
+   "山口 悟",
+   "三隅 良平",
+   "木下 陽平"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AL5315\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AL5317",
+  "name":"都市リスクマネジメント論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "梅本 通孝",
+   "木下 陽平"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AL5317\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AL5603",
+  "name":"環境流体工学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "白川 直樹",
+   "傳田 正利",
+   "京藤 敏達",
+   "武若 聡",
+   "大楽 浩司"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AL5603\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AL5618",
+  "name":"構造エネルギー工学特別講義III",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "市川 和芳"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AL5618\/jpn\/",
+  "themes":[
+   "climate",
+   "sustainability",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AL5621",
+  "name":"災害から学ぶ:巨大災害が社会基盤施設,工学や社会システム全般に及ぼす影響",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松島 亘志",
+   "庄司 学"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AL5621\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AN0401",
+  "name":"水環境論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AN0401\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AN0405",
+  "name":"Simulation of Environmental Policy",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "水野谷 剛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AN0405\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AN0501",
+  "name":"山岳科学概論A",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "上野 健一",
+   "津村 義彦",
+   "池田 敦",
+   "廣田 充",
+   "山中 勤",
+   "佐藤 幸恵",
+   "山川 陽祐",
+   "田中 健太"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AN0501\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AN0502",
+  "name":"山岳科学概論B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "清野 達之",
+   "吉田 正人",
+   "呉羽 正昭",
+   "立花 敏"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AN0502\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ANA324",
+  "name":"生態学セミナーIIF",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "徳永 幸彦",
+   "庄子 晶子",
+   "田中 健太",
+   "廣田 充",
+   "津田 吉晃",
+   "大橋 一晴",
+   "佐藤 幸恵",
+   "和田 茂樹",
+   "HARVEY Benjamin",
+   "アゴスティーニ シルバン",
+   "ポルジオ ルチア"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANA324\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ANB415",
+  "name":"農業経営学及び関連産業経営学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "納口 るり子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANB415\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ANB417",
+  "name":"森林資源経済学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "立花 敏"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANB417\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ANB512",
+  "name":"環境コロイド界面工学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "足立 泰久",
+   "小林 幹佳"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANB512\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ANB716",
+  "name":"海洋システム環境工学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内海 真生"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANB716\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ANB803",
+  "name":"Introduction to Sustainable Agriculture in Rural Areas",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "トファエル アハメド"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANB803\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ANB804",
+  "name":"Concept of Sustainability Index",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "トファエル アハメド"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANB804\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ANC322",
+  "name":"地域動態論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山下 亜紀郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANC322\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ANC333",
+  "name":"Hillslope Geomorphology and Hazards",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "パークナー トーマス"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANC333\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ANC339",
+  "name":"地形学特別講義II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "池田 敦",
+   "八反地 剛",
+   "関口 智寛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANC339\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ANC351",
+  "name":"気候学研究法",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "植田 宏昭",
+   "原田 真理子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANC351\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ANC354",
+  "name":"大気大循環論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "田中 博"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANC354\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AND001",
+  "name":"Exercises in Environmental Sciences",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "環境科学学位プログラム担当教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND001\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AND343",
+  "name":"Environmental Field Practice",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "奈佐原 顕郎",
+   "廣田 充",
+   "横井 智之"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND343\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AND351",
+  "name":"大気汚染学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "高見 昭憲",
+   "永島 達也",
+   "菅田 誠治"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND351\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AND357",
+  "name":"環境生態生化学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山路 恵子",
+   "春原 由香里"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND357\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AND368",
+  "name":"Climate System Study I",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "釜江 陽一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND368\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AND372",
+  "name":"陸域生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣田 充",
+   "横井 智之"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND372\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AND376",
+  "name":"Environmental Law",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "朝賀 広伸",
+   "水野谷 剛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND376\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AND378",
+  "name":"Applied Environmental Ethics (Introduction to English Presentation and Debate)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 健一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND378\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AND401",
+  "name":"環境防災計画論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内田 太郎",
+   "辻村 真貴",
+   "山越 隆雄",
+   "平田 遼",
+   "杉本 宏之",
+   "瀧口 茂隆"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND401\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AND402",
+  "name":"環境防災政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内田 太郎",
+   "辻村 真貴",
+   "田中 秀基"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND402\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AND403",
+  "name":"Climate System Study I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "釜江 陽一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AND403\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ANE011",
+  "name":"山岳環境インターンシップI",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "津田 吉晃",
+   "廣田 充"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANE011\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ANE012",
+  "name":"山岳環境インターンシップII",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣田 充",
+   "津田 吉晃"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANE012\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ANE325",
+  "name":"生態系生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣田 充",
+   "横井 智之"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANE325\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ANE329",
+  "name":"環境フィールド実習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣田 充",
+   "横井 智之",
+   "奈佐原 顕郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ANE329\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AQT001",
+  "name":"環境科学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "清水 和哉",
+   "辻村 真貴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT001\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AQT003",
+  "name":"環境科学演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "環境科学学位プログラム担当教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT003\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AQT005",
+  "name":"環境科学実習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 健一",
+   "甲斐田 直子",
+   "雷 中方",
+   "水野谷 剛",
+   "清水 和哉",
+   "大森 裕子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT005\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AQT009",
+  "name":"持続性マネジメント政策",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴",
+   "清水 和哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT009\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AQT027",
+  "name":"応用環境倫理学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松井 健一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT027\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AQT031",
+  "name":"環境政策シミュレーション",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "水野谷 剛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT031\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AQT041",
+  "name":"熱帯気候・地球規模モンスーン論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "釜江 陽一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT041\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AQT042",
+  "name":"熱帯気候・地球規模モンスーン論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "釜江 陽一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT042\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AQT043",
+  "name":"陸域生態論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣田 充"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT043\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AQT047",
+  "name":"環境影響評価論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴",
+   "清水 和哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT047\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AQT049",
+  "name":"ライフサイクルアセスメント",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "清水 和哉",
+   "辻村 真貴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT049\/jpn\/",
+  "themes":[
+   "resources",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0AQT051",
+  "name":"再生可能エネルギー論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴",
+   "清水 和哉"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AQT051\/jpn\/",
+  "themes":[
+   "environment",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0ATAE30",
+  "name":"自然地理学特講II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山中 勤"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ATAE30\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ATP106",
+  "name":"スポーツ社会学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "清水 諭"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ATP106\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ATV203",
+  "name":"World Heritage and International Cooperation(世界遺産と国際協力)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "飯田 義彦",
+   "吉田 正人",
+   "池田 真利子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ATV203\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0ATV205",
+  "name":"World Heritage and Sustainability(世界遺産と持続可能性)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "飯田 義彦"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0ATV205\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0AVC304",
+  "name":"環境と産業衛生",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "国立台湾大学教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0AVC304\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0BBE604",
+  "name":"環境とマクロ経済学3A",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "生藤 昌子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0BBE604\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0BBE605",
+  "name":"環境とマクロ経済学3B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "生藤 昌子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0BBE605\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0BDM293",
+  "name":"国際政治経済の概況と経営",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "礪波 亜希"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0BDM293\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0BNN222",
+  "name":"地誌学講究II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "呉羽 正昭",
+   "堤 純",
+   "山下 亜紀郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0BNN222\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0BNN234",
+  "name":"地形学特殊講義II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "池田 敦",
+   "八反地 剛",
+   "関口 智寛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0BNN234\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0BNN244",
+  "name":"水文科学特殊講義II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "杉田 倫明",
+   "辻村 真貴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0BNN244\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"0BNP002",
+  "name":"環境学フォーラムII",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "環境学担当教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0BNP002\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"0BTX105",
+  "name":"環境医学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "熊谷 嘉人",
+   "新開 泰弘"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/0BTX105\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1226151",
+  "name":"社会基礎学I-「グローバル化」と「地方の活性化」に貢献できる輝く人材の育成:世界に挑む産業界・官界トップリーダーによる連続リレー講義",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "坪内 孝司"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/1226151\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1405014",
+  "name":"国際学を学ぶIII",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "茅根 由佳"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/1405014\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1414014",
+  "name":"事例に学ぶ環境安全衛生と化学物質",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "佐藤 智生"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/1414014\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"1415021",
+  "name":"社会問題を見据えた材料開発とその応用",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "金 熙榮"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/1415021\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1426011",
+  "name":"社会基礎学II-「グローバル化」と「地方の活性化」に貢献できる輝く人材の育成:世界に挑む産業界・官界トップリーダーによる連続リレー講義",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "坪内 孝司"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/1426011\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1490111",
+  "name":"Social nature",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "パークナー トーマス"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/1490111\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1C90131",
+  "name":"Global issues and society",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "BPGI関係教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/1C90131\/jpn\/",
+  "themes":[
+   "climate",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"1F90011",
+  "name":"Social nature",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "パークナー トーマス"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/1F90011\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"3902242",
+  "name":"総合漢字8B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "石田 麻実"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/3902242\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"8050011",
+  "name":"ポスト・アントロポセン",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "秋山 肇"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/8050011\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"AC65E41",
+  "name":"比較宗教論V",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木村 武史"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/AC65E41\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"AC66102",
+  "name":"比較文化国際演習 I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木村 武史"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/AC66102\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"BB11331",
+  "name":"環境社会学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "五十嵐 泰正"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/BB11331\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"BB11811",
+  "name":"スポーツ社会学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "清水 諭",
+   "下竹 亮志"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/BB11811\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"BB41371",
+  "name":"ヨーロッパ社会経済史",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "田中 洋子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/BB41371\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"BC11791",
+  "name":"ヨーロッパ社会経済史",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "田中 洋子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/BC11791\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"BC12342",
+  "name":"開発と金融",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "鈴木 英明"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/BC12342\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"BC12571",
+  "name":"環境政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "奥島 真一郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/BC12571\/jpn\/",
+  "themes":[
+   "climate",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"BC50141",
+  "name":"国際学IV",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "亀山 啓輔",
+   "奥島 真一郎",
+   "高橋 伸"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/BC50141\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"BC51584",
+  "name":"English Debate",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "モハメド マレク"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/BC51584\/jpn\/",
+  "themes":[
+   "climate",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"BE22302",
+  "name":"開発と金融",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "鈴木 英明"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/BE22302\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"CB11111",
+  "name":"国際教育政策概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "タスタンベコワ クアニシ"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/CB11111\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EB72911",
+  "name":"海洋生物学I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "稲葉 一男",
+   "アゴスティーニ シルバン"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EB72911\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC12401",
+  "name":"生物資源と環境",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 暢彦",
+   "石賀 康博",
+   "立花 敏",
+   "山下 祐司"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC12401\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC23293",
+  "name":"環境工学フィールド実習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野口 良造",
+   "奈佐原 顕郎",
+   "トファエル アハメド",
+   "内田 太郎",
+   "中川 明子",
+   "小幡谷 英一",
+   "内海 真生",
+   "清水 和哉",
+   "小林 幹佳",
+   "山下 祐司",
+   "北村 豊",
+   "粉川 美踏",
+   "江前 敏晴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC23293\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC25061",
+  "name":"生物資源経済学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "茂野 隆一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC25061\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC25081",
+  "name":"森林管理学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "興梠 克久"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC25081\/jpn\/",
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC32031",
+  "name":"分子発生制御学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "柏原 真一",
+   "兼森 芳紀"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC32031\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC32111",
+  "name":"環境生態工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 名可男"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC32111\/jpn\/",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC32181",
+  "name":"植物環境感応学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山田 小須弥",
+   "山路 恵子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC32181\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC32231",
+  "name":"土壌微生物生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "坂本 一憲"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC32231\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC33311",
+  "name":"流域保全学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内田 太郎",
+   "奈佐原 顕郎",
+   "山川 陽祐"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC33311\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC33321",
+  "name":"砂防学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内田 太郎",
+   "奈佐原 顕郎",
+   "山川 陽祐"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC33321\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC33401",
+  "name":"生物材料学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "江前 敏晴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC33401\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC33591",
+  "name":"環境修復生物工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内海 真生",
+   "楊 英男"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC33591\/jpn\/",
+  "themes":[
+   "resources",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC33651",
+  "name":"再生可能エネルギーと生物資源循環技術",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "北村 豊",
+   "ネヴェス マルコス",
+   "張 振亜",
+   "雷 中方",
+   "野口 良造",
+   "中嶋 光敏"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC33651\/jpn\/",
+  "themes":[
+   "climate",
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC33721",
+  "name":"地域環境管理工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山下 祐司"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC33721\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC34061",
+  "name":"国際森林管理論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "立花 敏"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC34061\/jpn\/",
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC34171",
+  "name":"資源環境経済学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "首藤 久人",
+   "加藤 弘二"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC34171\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC34203",
+  "name":"林政学実習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "興梠 克久",
+   "立花 敏"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC34203\/jpn\/",
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC34281",
+  "name":"International Agricultural and Forestry Policies I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "萩原 英樹",
+   "浅井 真康",
+   "首藤 久人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC34281\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC34381",
+  "name":"International Agricultural and Forestry Policies II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "首藤 久人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC34381\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC35041",
+  "name":"環境保全科学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "浅野 眞希"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC35041\/jpn\/",
+  "themes":[
+   "climate",
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC35071",
+  "name":"環境経済評価論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "水野谷 剛"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC35071\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC35101",
+  "name":"林業経営体論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "興梠 克久"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC35101\/jpn\/",
+  "themes":[
+   "resources",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC41163",
+  "name":"国際農業研修VI",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 名可男",
+   "阿部 淳一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC41163\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EC42001",
+  "name":"環境有機農業論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "横谷 香織",
+   "新井 真由美"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC42001\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EC42023",
+  "name":"有機農業実習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "田村 憲司",
+   "浅野 眞希"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EC42023\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EE21241",
+  "name":"地誌学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山下 亜紀郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EE21241\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EE22221",
+  "name":"大気科学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "上野 健一",
+   "松枝 未遠",
+   "釜江 陽一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EE22221\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EE22521",
+  "name":"気候システム学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "植田 宏昭"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EE22521\/jpn\/",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EE22701",
+  "name":"地圏水文学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EE22701\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EE22691",
+  "name":"海洋学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "釜江 陽一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EE22691\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EE22841",
+  "name":"環境動態解析学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "恩田 裕一",
+   "松下 文経",
+   "加藤 弘亮",
+   "高橋 純子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EE22841\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EG60111",
+  "name":"環境生態工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 名可男"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EG60111\/jpn\/",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EG60561",
+  "name":"Water Environmental Management Technology",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 名可男"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EG60561\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"EG60421",
+  "name":"Soil and Water Bio-Engineering",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "PAN Shu-Yuan"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EG60421\/jpn\/",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EG60611",
+  "name":"International Agricultural and Forestry Policies I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "萩原 英樹",
+   "浅井 真康",
+   "首藤 久人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EG60611\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EG90211",
+  "name":"自然災害論",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "八木 勇治",
+   "藤野 滋弘",
+   "池端 慶",
+   "八反地 剛",
+   "恩田 裕一",
+   "辻村 真貴",
+   "関口 智寛",
+   "池田 敦",
+   "山下 亜紀郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EG90211\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"EG91101",
+  "name":"気象学・気候学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "田中 博",
+   "松枝 未遠",
+   "釜江 陽一",
+   "原田 真理子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/EG91101\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FE11161",
+  "name":"化学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小島 隆彦",
+   "二瓶 雅之",
+   "中谷 清治",
+   "岩崎 憲治",
+   "石橋 孝章",
+   "齋藤 一弥",
+   "木越 英夫",
+   "沓村 憲樹",
+   "笹森 貴裕",
+   "市川 淳士"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FE11161\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FE11421",
+  "name":"地学序説",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴",
+   "上松 佐知子",
+   "藤野 滋弘",
+   "八木 勇治",
+   "丸岡 照幸",
+   "黒澤 正紀",
+   "八反地 剛",
+   "田中 博",
+   "高橋 純子",
+   "角替 敏昭"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FE11421\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FF00021",
+  "name":"地学序説",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "辻村 真貴",
+   "山中 勤",
+   "丸岡 照幸",
+   "黒澤 正紀",
+   "八反地 剛",
+   "高橋 純子",
+   "藤野 滋弘",
+   "上松 佐知子",
+   "八木 勇治",
+   "田中 博",
+   "角替 敏昭"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FF00021\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FF16801",
+  "name":"分子工学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山本 洋平"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FF16801\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FF56351",
+  "name":"触媒化学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "桑原 純平"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FF56351\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FG45771",
+  "name":"地盤工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松島 亘志"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FG45771\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FG45831",
+  "name":"地盤工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松島 亘志"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FG45831\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FG46791",
+  "name":"地圏気圏の環境論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "羽田野 祐子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FG46791\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"FG46821",
+  "name":"エネルギー学入門",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "鈴木 研悟"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FG46821\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"FG55791",
+  "name":"エネルギー機器学II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   ""
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FG55791\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"FG56791",
+  "name":"地圏気圏の環境論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "羽田野 祐子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FG56791\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"FG56821",
+  "name":"エネルギー学入門",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "鈴木 研悟"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FG56821\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"FH27041",
+  "name":"経済動学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "ターンブル ステイーヴェン"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FH27041\/jpn\/",
+  "themes":[
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FH47034",
+  "name":"都市環境評価論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "甲斐田 直子",
+   "村上 暁信",
+   "木下 陽平"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FH47034\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"FH47041",
+  "name":"都市防災計画",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "梅本 通孝",
+   "糸井川 栄一"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FH47041\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FH48061",
+  "name":"環境政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "奥島 真一郎"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FH48061\/jpn\/",
+  "themes":[
+   "climate",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"FH61151",
+  "name":"都市計画入門",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "藤井 さやか",
+   "雨宮 護",
+   "梅本 通孝",
+   "谷口 綾子",
+   "甲斐田 直子",
+   "山本 幸子"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FH61151\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"FJ11111",
+  "name":"Introduction to Interdisciplinary Engineering II",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "松石 清人"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/FJ11111\/jpn\/",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"HC22001",
+  "name":"人間環境論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "升 秀夫",
+   "水野 智美"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/HC22001\/jpn\/",
+  "themes":[
+   "environment",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"VB10001",
+  "name":"General Introduction to Global Issues",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "青木 三郎",
+   "森尾 貴広",
+   "野村 名可男",
+   "サンドバール フェリーぺ",
+   "EOM SUNYONG",
+   "BPGI関係教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/VB10001\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"VB10011",
+  "name":"Methodology for Global Issues",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "青木 三郎",
+   "森尾 貴広",
+   "野村 名可男",
+   "ジャクタ ブルノ ダニエル フィリップ",
+   "サンドバール フェリーぺ",
+   "EOM SUNYONG",
+   "BPGI関係教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/VB10011\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"VB20001",
+  "name":"Literacy in Global Issues (Environment)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 名可男",
+   "EOM SUNYONG",
+   "BPGI関係教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/VB20001\/jpn\/",
+  "themes":[
+   "resources",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"VB30001",
+  "name":"Literacy in Global Issues (Human)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "青木 三郎",
+   "森尾 貴広",
+   "柴田 愛",
+   "サンドバール フェリーぺ",
+   "BPGI関係教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/VB30001\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"VB30023",
+  "name":"Practical Training on Global Issues B-II",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "青木 三郎",
+   "森尾 貴広",
+   "秋山 肇",
+   "サンドバール フェリーぺ",
+   "BPGI関係教員"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/VB30023\/jpn\/",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W160341",
+  "name":"スポーツを通じた開発",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山口 拓"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/W160341\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W870041",
+  "name":"スポーツ社会学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "清水 諭",
+   "下竹 亮志"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/W870041\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"XJ16022",
+  "name":"補講漢字8B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伊藤 秀明"
+  ],
+  "url":"https:\/\/kdb.tsukuba.ac.jp\/syllabi\/2021\/XJ16022\/jpn\/",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ }
+]
