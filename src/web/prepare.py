@@ -42,6 +42,8 @@ def add_missing_fields_in_programs(programs_df: pd.DataFrame, courses_df: pd.Dat
 
     # Fill columns
     for idx, courses in programs_df['courses'].items():
+        # only keep courses that have been crawled
+        courses = list(set(courses).intersection(set(courses_df.index)))
         for key in keys_in_courses:
             if len(courses) == 0:
                 programs_df[key].loc[idx] = []

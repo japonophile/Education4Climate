@@ -41,6 +41,13 @@
             "coursesFile": "hokkaidou_data_2021_courses.json",
             "programsFile": "hokkaidou_data_2021_programs.json",
             "teachersDirectoryUrl": "https://www.let.hokudai.ac.jp/research/staff"
+        },
+        {
+            "name": "筑波大学",
+            "shortName": "筑波大",
+            "coursesFile": "tsukuba_data_2021_courses.json",
+            "programsFile": "tsukuba_data_2021_programs.json",
+            "teachersDirectoryUrl": "https://trios.tsukuba.ac.jp/"
         }
     ]
 }
