@@ -1,0 +1,4537 @@
+[
+ {
+  "id":"Z021201901",
+  "name":"グローバル化と都市計画",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "永瀬 彩子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z2\/Z021201901\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z021200401",
+  "name":"科学技術社会特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "串田 正人",
+   "三野 弘文",
+   "神里 達博",
+   "東島 仁"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z2\/Z021200401\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z021100501",
+  "name":"科学技術と倫理",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "串田 正人"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z2\/Z021100501\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z021100301",
+  "name":"環境科学と倫理",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "永瀬 彩子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z2\/Z021100301\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"N011421501",
+  "name":"災害と地域看護活動",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "石丸 美奈",
+   "宮﨑 美砂子",
+   "岩瀬 靖子",
+   "鈴木 悟子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/N11\/N011421501\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"N011330201",
+  "name":"保健学Ⅰ（環境保健学・保健統計学）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "北池 正"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/N11\/N011330201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021A17501",
+  "name":"生物圏相互作用論",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "坂本 一憲",
+   "野村 昌史",
+   "天知 誠吾",
+   "宇佐見 俊行",
+   "八島 未和",
+   "長 泰行",
+   "濱 侃"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021A17501\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021D01556",
+  "name":"特別研究I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "三島 孔明"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021D01556\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H022A04001",
+  "name":"農業気象・環境学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松岡 延浩",
+   "後藤 英司",
+   "彦坂 晶子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H022A04001\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H022B01501",
+  "name":"都市緑地デザイン学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "池邊 このみ",
+   "木下 剛"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H022B01501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021A01001",
+  "name":"環境園芸アントレプレナーシップ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 昌史",
+   "笠井 美恵子",
+   "森 健一",
+   "賀来 宏和",
+   "橋詰 徹",
+   "井内 正直",
+   "宮本 浩邦",
+   "牛澤 幸司",
+   "角 直樹",
+   "木附 誠一",
+   "齋藤 修",
+   "小松 真知子",
+   "宮内 陽介"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021A01001\/ja_JP",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021402083",
+  "name":"特別研究Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "三島 孔明"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021402083\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021A14501",
+  "name":"農村開発経済学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "栗原 伸一",
+   "柴田 浩文",
+   "BHATTA KUMAR PRASAD"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021A14501\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021401083",
+  "name":"特別演習Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "三島 孔明"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021401083\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H022B03501",
+  "name":"景観生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "梅木 清",
+   "小林 達明"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H022B03501\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021401079",
+  "name":"特別演習Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "八島 未和"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021401079\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H022B01001",
+  "name":"エコデザイン論Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "木下 剛",
+   "UEDA EDILSON SHINDI"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H022B01001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021D01552",
+  "name":"特別研究I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "八島 未和"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021D01552\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021B09001",
+  "name":"景観生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "梅木 清",
+   "小林 達明"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021B09001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H022C01501",
+  "name":"環境園芸アントレプレナーシップ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 昌史",
+   "笠井 美恵子",
+   "髙橋 昌義",
+   "森 健一",
+   "賀来 宏和",
+   "橋詰 徹",
+   "井内 正直",
+   "宮本 浩邦",
+   "牛澤 幸司",
+   "角 直樹",
+   "木附 誠一",
+   "齋藤 修",
+   "小松 真知子",
+   "宮内 陽介"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H022C01501\/ja_JP",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021401085",
+  "name":"特別演習Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "近江 慶光"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021401085\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021402075",
+  "name":"特別研究Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "八島 未和"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021402075\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H022A08501",
+  "name":"植物環境応答制御学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "児玉 浩明",
+   "宮原 平",
+   "木下 俊則",
+   "笠原 博幸"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H022A08501\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021A13001",
+  "name":"環境微生物学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "天知 誠吾"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021A13001\/ja_JP",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021B15001",
+  "name":"ランドスケープ構造・機能論",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "加藤 顕",
+   "小林 達明",
+   "唐 常源",
+   "百原 新",
+   "木下 剛",
+   "高橋 輝昌",
+   "三島 孔明",
+   "野田 勝二",
+   "梅木 清",
+   "岩崎 寛",
+   "渡辺 洋一",
+   "本條 毅",
+   "大江 靖雄"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021B15001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021A21501",
+  "name":"植物環境応答制御学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "児玉 浩明",
+   "宮原 平",
+   "木下 俊則",
+   "笠原 博幸"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021A21501\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021B04501",
+  "name":"緑地環境機能学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "柳井 重人"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021B04501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H022A04501",
+  "name":"生物圏相互作用論",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "坂本 一憲",
+   "野村 昌史",
+   "天知 誠吾",
+   "宇佐見 俊行",
+   "八島 未和",
+   "長 泰行",
+   "濱 侃"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H022A04501\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021A17001",
+  "name":"農業気象・環境学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松岡 延浩",
+   "後藤 英司",
+   "彦坂 晶子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021A17001\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021D00501",
+  "name":"環境園芸学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 達明",
+   "西田 芳弘",
+   "高垣 美智子",
+   "百原 新",
+   "丸山 敦史",
+   "宍戸 雅宏",
+   "櫻井 清一",
+   "章 俊華",
+   "近藤 悟",
+   "池邊 このみ",
+   "三吉 一光",
+   "西田 芳弘"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021D00501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H021A29535",
+  "name":"特別演習I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "八島 未和"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021A29535\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021A02001",
+  "name":"土壌微生物学特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "坂本 一憲"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021A02001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021B07001",
+  "name":"都市緑地デザイン学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "池邊 このみ",
+   "木下 剛"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021B07001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021D01545",
+  "name":"特別研究I",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "秋田 典子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021D01545\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H021B13001",
+  "name":"エコデザイン論Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "木下 剛",
+   "UEDA EDILSON SHINDI"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H2\/H021B13001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H013012001",
+  "name":"食料資源経済学セミナー",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "矢野 佑樹"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H013012001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011440701",
+  "name":"資源・廃棄物論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "町田 基",
+   "西田 芳弘"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011440701\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011330801",
+  "name":"農業気象・環境学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松岡 延浩",
+   "後藤 英司"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011330801\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H011200401",
+  "name":"熱帯園芸学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "高垣 美智子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011200401\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011050155",
+  "name":"専攻研究",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "八島 未和"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011050155\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011440801",
+  "name":"環境微生物学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "天知 誠吾"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011440801\/ja_JP",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H011330301",
+  "name":"ポストハーベスト工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "椎名 武夫"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011330301\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011240401",
+  "name":"昆虫学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 昌史"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011240401\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011320201",
+  "name":"バイオエンジニアリング",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "後藤 英司",
+   "彦坂 晶子",
+   "吉田 英生"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011320201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H012060126",
+  "name":"専攻研究",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "秋田 典子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H012060126\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H013013801",
+  "name":"農村開発経済学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "栗原 伸一",
+   "柴田 浩文",
+   "BHATTA KUMAR PRASAD"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H013013801\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H012225501",
+  "name":"環境ガバナンス論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "秋田 典子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H012225501\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H011320101",
+  "name":"植物環境工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "彦坂 晶子",
+   "後藤 英司",
+   "吉田 英生"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011320101\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H012060125",
+  "name":"専攻研究",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "柳井 重人"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H012060125\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H012020201",
+  "name":"緑地植物学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 達明"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H012020201\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H012023101",
+  "name":"緑地環境管理学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "秋田 典子",
+   "柳井 重人"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H012023101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H013024101",
+  "name":"農村社会学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "石田 貴士",
+   "飯塚 里恵子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H013024101\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H013012501",
+  "name":"フードシステム学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "櫻井 清一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H013012501\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011220501",
+  "name":"生物生産環境学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "坂本 一憲",
+   "松岡 延浩",
+   "野村 昌史",
+   "宍戸 雅宏",
+   "宇佐見 俊行",
+   "小川 幸春",
+   "八島 未和",
+   "長 泰行",
+   "椎名 武夫",
+   "濱 侃",
+   "後藤 英司",
+   "彦坂 晶子",
+   "吉田 英生"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011220501\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H012050401",
+  "name":"緑地環境学実習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "三島 孔明",
+   "近江 慶光",
+   "木下 剛",
+   "野田 勝二",
+   "岩崎 寛",
+   "竹内 智子",
+   "塚本 英文"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H012050401\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H012031101",
+  "name":"緑地気象学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松岡 延浩"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H012031101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011210201",
+  "name":"土壌微生物学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "坂本 一憲"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011210201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H012221101",
+  "name":"緑地環境機能学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "柳井 重人"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H012221101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"H013225912",
+  "name":"卒業研究",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "石田 貴士"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H013225912\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H012355901",
+  "name":"水域生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "菊地 友則",
+   "富樫 辰也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H012355901\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011215201",
+  "name":"土壌学",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "八島 未和"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011215201\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H011250301",
+  "name":"農薬学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 昌史",
+   "塩月 孝博"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H011250301\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"H013010102",
+  "name":"農業経済学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "櫻井 清一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/H1\/H013010102\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02I124001",
+  "name":"環境社会学研究",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "井上 孝夫"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02I124001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"E02K490313",
+  "name":"課題研究ⅡA（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "大和 政秀"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490313\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02K490319",
+  "name":"課題研究ⅡA（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "笹川 幸治"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490319\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02K490310",
+  "name":"課題研究ⅡA（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "加藤 徹也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490310\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02K490311",
+  "name":"課題研究ⅡA（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山田 哲弘"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490311\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02K490314",
+  "name":"課題研究ⅡA（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "三野 弘文"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490314\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02J150401",
+  "name":"危機管理論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "大野 英彦"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02J150401\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02K490416",
+  "name":"課題研究ⅡB（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "板倉 嘉哉"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490416\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02J210201",
+  "name":"学校経営の理論と実際Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "大野 英彦",
+   "丹間 康仁"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02J210201\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02K490316",
+  "name":"課題研究ⅡA（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "板倉 嘉哉"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490316\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02K490308",
+  "name":"課題研究ⅡA（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "藤田 剛志"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490308\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02K304401",
+  "name":"食品学と食生活研究",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "米田 千惠"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K304401\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02I124501",
+  "name":"人文環境地理研究",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "梅田 克樹"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02I124501\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"E02K490309",
+  "name":"課題研究ⅡA（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "山下 修一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490309\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E02K490312",
+  "name":"課題研究ⅡA（理数・技術系）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "林 英子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E2\/E02K490312\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015461401",
+  "name":"地表動態学概論-1",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 望"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015461401\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015306201",
+  "name":"地形学Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "宮内 崇裕"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015306201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015473301",
+  "name":"地球生理学-2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 望"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015473301\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015484201",
+  "name":"大気リモートセンシング-1",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "樋口 篤志"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015484201\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"S015484301",
+  "name":"大気リモートセンシング-2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "入江 仁士",
+   "齋藤 尚子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015484301\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"S015494101",
+  "name":"地球科学基礎実験2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "戸丸 仁",
+   "竹内 望",
+   "亀尾 浩司"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015494101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015473201",
+  "name":"地球生理学-1",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 望"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015473201\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015492101",
+  "name":"地球科学基礎演習2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 望",
+   "戸丸 仁",
+   "樋口 篤志"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015492101\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015311901",
+  "name":"堆積学Ⅱ-2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伊藤 愼"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015311901\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015101401",
+  "name":"地史古生物学Ⅱ-2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小竹 信宏"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015101401\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015448201",
+  "name":"堆積学実験Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伊藤 愼"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015448201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015311801",
+  "name":"堆積学Ⅱ-1",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伊藤 愼"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015311801\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015311601",
+  "name":"堆積学Ⅰ-1",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伊藤 愼"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015311601\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015482101",
+  "name":"リモートセンシング入門",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "近藤 昭彦"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015482101\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015311701",
+  "name":"堆積学Ⅰ-2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伊藤 愼"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015311701\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S015461501",
+  "name":"地表動態学概論-2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "戸丸 仁"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S15\/S015461501\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S013239301",
+  "name":"環境化学Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "保倉 明子",
+   "沼子 千弥"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S13\/S013239301\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"S014246301",
+  "name":"海洋生物学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "富樫 辰也",
+   "菊地 友則"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S14\/S014246301\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"S014253201",
+  "name":"植物分子生物学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伊藤 光二"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/S14\/S014253201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W021203001",
+  "name":"大気リモートセンシング",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "入江 仁士",
+   "齋藤 尚子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W212\/W021203001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"W021115501",
+  "name":"石油探鉱開発論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伊藤 愼",
+   "福成 徹三"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W211\/W021115501\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W021118001",
+  "name":"生物地球化学Ⅴ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "竹内 望",
+   "戸丸 仁"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W211\/W021118001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W021114001",
+  "name":"堆積学Ⅴ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "伊藤 愼"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W211\/W021114001\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W021119001",
+  "name":"生物地球化学特別講義",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "堀 知行",
+   "戸丸 仁"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W211\/W021119001\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W021189904",
+  "name":"特別研究Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "服部 克巳"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W211\/W021189904\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W021201001",
+  "name":"地球環境計測学",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "入江 仁士",
+   "梶原 康司",
+   "楊 偉"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W21\/W021201001\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"W021301501",
+  "name":"環境マネジメント論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "劉 醇一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W21\/W021301501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"W021103501",
+  "name":"地表動態学特論-1",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "竹内 望"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W21\/W021103501\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W021306601",
+  "name":"環境エネルギーシステム学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "和嶋 隆昌"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W213\/W021306601\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"W021308501",
+  "name":"環境エネルギー保全論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小倉 裕直",
+   "松野 泰也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W213\/W021308501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"W022410501",
+  "name":"生物プロセス工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "関 実"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W224\/W022410501\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W022308501",
+  "name":"基礎無機・分析化学-2",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "沼子 千弥",
+   "勝田 正一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W223\/W022308501\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W022516000",
+  "name":"行動生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "川瀬 裕司",
+   "村上 正志"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W225\/W022516000\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W023325501",
+  "name":"エコデザイン論Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "UEDA EDILSON SHINDI"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W23\/W023325501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W023306501",
+  "name":"エコデザイン論Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "UEDA EDILSON SHINDI",
+   "木下 剛"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W23\/W023306501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W023337001",
+  "name":"レジリエント・ランドスケープ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "永瀬 彩子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W233\/W023337001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W024115001",
+  "name":"熱流体物理工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹島 伸一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W241\/W024115001\/ja_JP",
+  "themes":[
+   "energy",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"W024309001",
+  "name":"パワーエレクトロニクス特論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "佐藤 之彦",
+   "名取 賢二"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/W243\/W024309001\/ja_JP",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z011320101",
+  "name":"都市住環境論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "田島 翔太"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011320101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"Z011200101",
+  "name":"国際教養CALL英語Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "高橋 秀夫"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011200101\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z011321001",
+  "name":"防災・減災社会構築論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "石川 永子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011321001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z011320601",
+  "name":"温暖化と地球環境",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 望"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011320601\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"Z011530801",
+  "name":"環境とくらし",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "永瀬 彩子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011530801\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"Z011320901",
+  "name":"コミュニティ生態系",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "高垣 美智子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011320901\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z011320301",
+  "name":"地域環境論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "高垣 美智子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011320301\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"Z011320501",
+  "name":"生物多様性論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "上原 浩一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011320501\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"Z011510601",
+  "name":"気象情報論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "樋口 篤志"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011510601\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z011101001",
+  "name":"総合科学コミュニケーション演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "三野 弘文",
+   "徳永 留美",
+   "渡辺 正巳",
+   "上原 浩一",
+   "田島 翔太"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011101001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z011320401",
+  "name":"環境変動と自然災害",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "吉田 修二"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011320401\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"Z011100901",
+  "name":"現代日本課題演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "永瀬 彩子",
+   "鈴木 雅之",
+   "白川 優治",
+   "佐々木 綾子",
+   "和田 健"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011100901\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z011200103",
+  "name":"国際教養CALL英語Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "与那覇 信恵"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011200103\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"Z011410901",
+  "name":"Disaster Preparedness",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "PASKEVICIUS ALGIRDAS",
+   "吉田 修二"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/Z11\/Z011410901\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"B15B200301",
+  "name":"環境政策論Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "倉阪 秀史"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B15B200301\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"B12D301101",
+  "name":"環境法",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "横田 明美"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B12D301101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"B15A200401",
+  "name":"比較政治Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 正弥"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B15A200401\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"B15A200301",
+  "name":"比較政治Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 正弥"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B15A200301\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"B15D100201",
+  "name":"環境マネジメントシステム実習Ⅰa",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "倉阪 秀史",
+   "岡山 咲子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B15D100201\/ja_JP",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"B15B200501",
+  "name":"国際政策論Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "李 想"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B15B200501\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"B13C201401",
+  "name":"日本経済論Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "落合 勝昭"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B13C201401\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"B15B200401",
+  "name":"環境政策論Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "倉阪 秀史"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B15B200401\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"B13C201301",
+  "name":"日本経済論Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "落合 勝昭"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B13C201301\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"B15B201101",
+  "name":"環境経済論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "倉阪 秀史"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/B1\/B15B201101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"D021104301",
+  "name":"国際社会学",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "福田 友子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/D21\/D021104301\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"D021112501",
+  "name":"ユーラシア文化論Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "兒玉 香菜子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/D21\/D021112501\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"D021104401",
+  "name":"国際社会学演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "福田 友子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/D21\/D021104401\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"D027102101",
+  "name":"ユーラシア文化論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "吉田 睦"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/D23\/D027102101\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"D027201701",
+  "name":"国際政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "李 想"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/D23\/D027201701\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"D022102901",
+  "name":"国際政策論",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "李 想"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/D22\/D022102901\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"D022101801",
+  "name":"環境経済政策論演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "倉阪 秀史",
+   "岡山 咲子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/D22\/D022101801\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V105201",
+  "name":"基礎地盤工学（建築学）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "関口 徹"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V1\/T01V105201\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V100801",
+  "name":"建築環境計画Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "宗方 淳"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V1\/T01V100801\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V101101",
+  "name":"建築設備計画Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "林 立也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V1\/T01V101101\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V202301",
+  "name":"環境工学Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木村 博則",
+   "郭 東潤"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V202301\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V205901",
+  "name":"防災工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "丸山 喜久"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V205901\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V204601",
+  "name":"環境プロセス工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "劉 醇一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V204601\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V204701",
+  "name":"環境リサイクル化学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "廣瀬 裕二"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V204701\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V204801",
+  "name":"環境ビジネス",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木村 諭史"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V204801\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V202801",
+  "name":"環境エネルギーシステム",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "藤本 真司",
+   "小倉 裕直"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V202801\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V206101",
+  "name":"環境マテリアル工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "和嶋 隆昌"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V206101\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V206301",
+  "name":"都市環境共生",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松野 泰也",
+   "醍醐 市朗"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V206301\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V203901",
+  "name":"建築計画Ⅰ（都市環境システム）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "森永 良丙"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V203901\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V201401",
+  "name":"知能情報基礎",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "荒井 幸代"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V201401\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V202901",
+  "name":"環境材料",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松野 泰也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V202901\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V204901",
+  "name":"環境経済学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "倉阪 秀史"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V204901\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V205801",
+  "name":"基礎地盤工学（都市環境システム）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "関口 徹"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V205801\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V203001",
+  "name":"環境社会学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "浜本 篤史",
+   "森永 良丙"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V203001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V206001",
+  "name":"環境エネルギー化学工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小倉 裕直"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V206001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V201101",
+  "name":"地球環境化学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内山 茂久"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V201101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V203101",
+  "name":"環境制度論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "倉阪 秀史"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V2\/T01V203101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V504001",
+  "name":"応用電磁工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "中川 誠司"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V5\/T01V504001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V404601",
+  "name":"自動車工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "森吉 泰生",
+   "須藤 晶",
+   "木村 聡朗",
+   "新里 智則",
+   "名越 健太郎",
+   "峯田 憲一",
+   "高石 秀明",
+   "滝口 貴",
+   "新井 大輔",
+   "竹内 和夫",
+   "前田 敏明",
+   "弘間 拓二",
+   "和崎 知紀"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V4\/T01V404601\/ja_JP",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V604801",
+  "name":"発変電工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "宮武 昌史",
+   "劉 康志"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V6\/T01V604801\/ja_JP",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V604901",
+  "name":"エネルギー論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "劉 康志",
+   "宮城 大輔",
+   "石谷 善博"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V6\/T01V604901\/ja_JP",
+  "themes":[
+   "energy",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V605001",
+  "name":"電気法規及び電気施設管理",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "岡部 康恒"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V6\/T01V605001\/ja_JP",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V604701",
+  "name":"高電圧工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "水野 健彦"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V6\/T01V604701\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V801501",
+  "name":"環境化学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "石垣 智基",
+   "町田 基"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V8\/T01V801501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V802001",
+  "name":"グリーンケミストリー",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "三野 孝",
+   "阿部 太一",
+   "福山 尚",
+   "保田 耕三"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V8\/T01V802001\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V804601",
+  "name":"高分子合成",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "谷口 竜王",
+   "桑折 道済"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V8\/T01V804601\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"T01V803501",
+  "name":"エネルギー資源工学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "松野 泰也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V8\/T01V803501\/ja_JP",
+  "themes":[
+   "resources",
+   "energy",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"T01V804201",
+  "name":"有機工業化学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "佐藤 俊夫",
+   "赤染 元浩",
+   "伊崎 健晴",
+   "木村 正広",
+   "浅見 琢夫"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/T1V8\/T01V804201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"L012957201",
+  "name":"人文地理学ｂ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "西 律子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/L1\/L012957201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"L013848401",
+  "name":"内陸アジア文化論ｄ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "渡邊 三津子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/L1\/L013848401\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"L016Z62201",
+  "name":"環境社会学入門ｂ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "米村 千代"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/L1\/L016Z62201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"L016Z62101",
+  "name":"環境社会学入門ａ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "米村 千代"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/L1\/L016Z62101\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"L016320101",
+  "name":"東北アジア文化論a",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "兒玉 香菜子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/L1\/L016320101\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"L011979201",
+  "name":"生態人類学ｂ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小谷 真吾"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/L1\/L011979201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"L01Z902201",
+  "name":"人文科学専門英語（ユーラシア言語文化論）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "吉田 睦"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/L1\/L01Z902201\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01E270501",
+  "name":"地学通論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "泉 賢太郎"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01E270501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01B372601",
+  "name":"社会科・公民科授業開発論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "阪上 弘彬",
+   "未 定"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01B372601\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01I108501",
+  "name":"生活と技術",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "谷田貝 麻美子",
+   "本多 素子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01I108501\/ja_JP",
+  "themes":[
+   "energy",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01E270201",
+  "name":"生態学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "笹川 幸治"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01E270201\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01L251001",
+  "name":"エネルギー変換",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "飯塚 正明",
+   "大澤 寛"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01L251001\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"E01L244501",
+  "name":"技術科教材研究Ⅱ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木下 龍",
+   "板倉 嘉哉"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01L244501\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01B222001",
+  "name":"社会学特講Ⅰ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "井上 孝夫"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01B222001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01L209601",
+  "name":"技術科教育法演習",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木下 龍"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01L209601\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01E272901",
+  "name":"地学実験基礎",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "泉 賢太郎"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01E272901\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01B372401",
+  "name":"倫理学特講",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "大森 一三",
+   "金 慧"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01B372401\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01H224101",
+  "name":"学校保健A",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "工藤 宣子",
+   "花澤 寿"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01H224101\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01B292201",
+  "name":"社会学演習Ⅲ－２",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "井上 孝夫"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01B292201\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01B371201",
+  "name":"自然地理学概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "田代 崇",
+   "梅田 克樹"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01B371201\/ja_JP",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01P200401",
+  "name":"保健科教育法（環境と健康に関する学習）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "野村 純"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01P200401\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"E01L261101",
+  "name":"技術教育総論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木下 龍"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01L261101\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01E271601",
+  "name":"理科の専門的基盤（地学）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "泉 賢太郎"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01E271601\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01E272801",
+  "name":"地球表層環境科学",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "泉 賢太郎"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01E272801\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"E01P200001",
+  "name":"学校保健概論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "工藤 宣子",
+   "花澤 寿"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01P200001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01B370501",
+  "name":"社会科の専門的基盤（社会学）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "井上 孝夫"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01B370501\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01B370401",
+  "name":"社会科の専門的基盤（地理学）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "梅田 克樹"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01B370401\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"E01B292101",
+  "name":"社会学演習Ⅲ－１",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "井上 孝夫"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/E1\/E01B292101\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15H281001",
+  "name":"地球科学Ａ１",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 望"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15H281001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15E033001",
+  "name":"環境問題B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "町田 基"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E033001\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15H343001",
+  "name":"物理学入門２（展開）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "加藤 徹也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15H343001\/ja_JP",
+  "themes":[
+   "energy",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15H325001",
+  "name":"生物学基礎実験Ｅ（展開）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "富樫 辰也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15H325001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15N855001",
+  "name":"気候変動とその対応策２(JS)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "白 迎玖"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15N855001\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15D263001",
+  "name":"経済学Ｃ２",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 弘明"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15D263001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G14E431001",
+  "name":"プレートテクトニクスと地震・火山災害",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "津村 紀子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G14E431001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15Y005002",
+  "name":"オンライン留学プログラム　チェンマイ大学(2)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "織田 雄一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15Y005002\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G175321001",
+  "name":"物理化学Ａ(専門基)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "森田 剛"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G175321001\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G179314001",
+  "name":"地学概論Ｂ",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "津村 紀子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G179314001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15H061001",
+  "name":"物理化学Ａ(展開)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "森田 剛"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15H061001\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15E290001",
+  "name":"衛星地球観測と極域環境",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "島田 利元"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E290001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G1111R6001",
+  "name":"英語Ⅲ（国際情報）(1)",
+  "year":"2021-2022",
+  "languages":[
+   "ja",
+   "en"
+  ],
+  "teachers":[
+   "奥広 啓太"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G1111R6001\/ja_JP",
+  "themes":[
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15N856001",
+  "name":"都市生活と環境１(JS)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "白 迎玖"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15N856001\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15D264001",
+  "name":"経済学Ｄ１",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "落合 勝昭"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15D264001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15E261001",
+  "name":"地震と災害",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "佐藤 利典"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E261001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15X251003",
+  "name":"ｲﾝｸﾞﾘｯｼｭｺﾐｭﾆｹｰｼｮﾝD（中級）(3)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "織田 雄一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15X251003\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G112312001",
+  "name":"ドイツ語Ⅱマスター(1)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内村 博信",
+   "大塚 萌"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G112312001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15N857001",
+  "name":"都市生活と環境２(JS)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "白 迎玖"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15N857001\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15N854001",
+  "name":"気候変動とその対応策１(JS)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "白 迎玖"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15N854001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G112113001",
+  "name":"ドイツ語Ⅱ文化",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "秋元 和美"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G112113001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15E032001",
+  "name":"環境問題A",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "町田 基"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E032001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15K261001",
+  "name":"博物館展示論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "渡辺 友美",
+   "百原 新"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15K261001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15H272002",
+  "name":"エネルギーについて学ぶ（2）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "三野 弘文"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15H272002\/ja_JP",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15E262001",
+  "name":"火山と災害",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "津久井 雅志"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E262001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15N442001",
+  "name":"日本の事例を通じて学ぶサステナビリティ学(JS)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "白 迎玖"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15N442001\/ja_JP",
+  "themes":[
+   "climate",
+   "sustainability",
+   "energy",
+   "environment",
+   "resources"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G173401002",
+  "name":"物理学入門(2)（専門基）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "加藤 徹也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G173401002\/ja_JP",
+  "themes":[
+   "energy",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15E271001",
+  "name":"ユーラシア地球環境学１",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 望",
+   "兒玉 香菜子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E271001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G14E391001",
+  "name":"環境にやさしい機械と材料",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "森吉 泰生"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G14E391001\/ja_JP",
+  "themes":[
+   "resources",
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G112311001",
+  "name":"ドイツ語Ⅰマスター(1)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "内村 博信",
+   "大塚 萌"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G112311001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15H272001",
+  "name":"エネルギーについて学ぶ（1）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "三野 弘文"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15H272001\/ja_JP",
+  "themes":[
+   "energy"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15E272001",
+  "name":"ユーラシア地球環境学２",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 望",
+   "兒玉 香菜子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E272001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15K251001",
+  "name":"博物館資料保存論",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "坂本 稔",
+   "古川 登",
+   "百原 新"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15K251001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15R032001",
+  "name":"環境マネジメントシステム実習ⅠA",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "岡山 咲子",
+   "倉阪 秀史"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15R032001\/ja_JP",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15K061001",
+  "name":"博物館実習Ａ(自然史系・環境科学系)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "百原 新",
+   "水野 大樹"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15K061001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15E082001",
+  "name":"環境科学B",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "海老原 昇"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E082001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15E083001",
+  "name":"環境科学A",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "吉田 浩之"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E083001\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15U120001",
+  "name":"共生環境のまちづくり２",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "樋口 孝之"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15U120001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15X251004",
+  "name":"ｲﾝｸﾞﾘｯｼｭｺﾐｭﾆｹｰｼｮﾝD（中級）(4)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "織田 雄一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15X251004\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G177341001",
+  "name":"生物学基礎実験Ｅ（専門基）",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "富樫 辰也"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G177341001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G14E371001",
+  "name":"人間と環境",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "田中 佑樹"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G14E371001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15D265001",
+  "name":"経済学Ｄ２",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "落合 勝昭"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15D265001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15E201001",
+  "name":"緑と食の環境問題",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小林 達明",
+   "中村 郁郎",
+   "松岡 延浩",
+   "唐 常源",
+   "栗原 伸一",
+   "吉田 行郷",
+   "坂本 一憲"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E201001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15H282001",
+  "name":"地球科学Ａ２",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "竹内 望"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15H282001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G14F381001",
+  "name":"身近なエネルギーと環境",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "小倉 裕直"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G14F381001\/ja_JP",
+  "themes":[
+   "energy",
+   "sustainability",
+   "climate"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15E243001",
+  "name":"地球環境とリモートセンシングA",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "近藤 昭彦"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E243001\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G15Y005001",
+  "name":"オンライン留学プログラム　チェンマイ大学(1)",
+  "year":"2021-2022",
+  "languages":[
+   "en"
+  ],
+  "teachers":[
+   "織田 雄一"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15Y005001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G15E244001",
+  "name":"地球環境とリモートセンシングB",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "樋口 篤志",
+   "齋藤 尚子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G15E244001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":1
+ },
+ {
+  "id":"G14C351001",
+  "name":"東方ユーラシアの先住民文化",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "兒玉 香菜子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G14C351001\/ja_JP",
+  "themes":[
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G112312006",
+  "name":"ドイツ語Ⅱマスター(6)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木村 裕一",
+   "西尾 悠子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G112312006\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G14E361001",
+  "name":"宇宙からの地球表層観測",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "市井 和仁"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G14E361001\/ja_JP",
+  "themes":[
+   "sustainability",
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G14E531001",
+  "name":"土壌の機能と役割",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "八島 未和"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G14E531001\/ja_JP",
+  "themes":[
+   "climate",
+   "environment"
+  ],
+  "dedicated":0
+ },
+ {
+  "id":"G112311006",
+  "name":"ドイツ語Ⅰマスター(6)",
+  "year":"2021-2022",
+  "languages":[
+   "ja"
+  ],
+  "teachers":[
+   "木村 裕一",
+   "西尾 悠子"
+  ],
+  "url":"https:\/\/syllabus.gs.chiba-u.jp\/2021\/G1\/G112311006\/ja_JP",
+  "themes":[
+   "sustainability"
+  ],
+  "dedicated":0
+ }
+]
