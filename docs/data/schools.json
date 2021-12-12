@@ -48,6 +48,13 @@
             "coursesFile": "tsukuba_data_2021_courses.json",
             "programsFile": "tsukuba_data_2021_programs.json",
             "teachersDirectoryUrl": "https://trios.tsukuba.ac.jp/"
+        },
+        {
+            "name": "千葉大学",
+            "shortName": "千葉大",
+            "coursesFile": "chibau_data_2021_courses.json",
+            "programsFile": "chibau_data_2021_programs.json",
+            "teachersDirectoryUrl": "https://researchers-info.chiba-u.jp/"
         }
     ]
 }

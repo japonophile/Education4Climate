@@ -5,8 +5,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -15,7 +15,7 @@
    "科目等履修生用 科目履_共通科目"
   ],
   "fields":[
-   "Others"
+   "Other"
   ],
   "themes":[
    "climate",
@@ -32,14 +32,14 @@
    3
   ],
   "matched_courses":[
+   "0AH0316",
+   "0A00501",
    "0AH0203",
    "0A00505",
-   "0AA3014",
    "0A00102",
-   "0A00312",
-   "0A00501",
-   "0AH0316",
-   "0AA3013"
+   "0AA3014",
+   "0AA3013",
+   "0A00312"
   ],
   "nb_dedicated_courses":5
  },
@@ -79,8 +79,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -112,8 +112,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -145,8 +145,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -176,8 +176,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -203,53 +203,53 @@
    24
   ],
   "matched_courses":[
-   "0AQT009",
-   "0BNP002",
-   "0AND343",
-   "0BNN234",
-   "0ANC322",
-   "0ANB716",
-   "0AQT005",
-   "0AQT042",
-   "0AND368",
-   "0ANC354",
-   "0BNN222",
-   "0AQT047",
-   "0ANE012",
-   "0AN0501",
-   "0AQT041",
-   "0ANA324",
-   "0ANC339",
-   "0AQT051",
    "0ANB804",
-   "0AND402",
-   "0ANE329",
-   "0AQT043",
-   "0ANB415",
-   "0AND376",
-   "0ANB512",
-   "0AND001",
-   "0AN0502",
-   "0AQT027",
-   "0AND401",
-   "0AND372",
-   "0AQT003",
-   "0ANE325",
-   "0ANB803",
-   "0ANB417",
    "0AQT031",
-   "0ANE011",
-   "0AQT049",
-   "0BNN244",
-   "0ANC351",
    "0ANC333",
-   "0AND378",
-   "0AND403",
-   "0AN0405",
+   "0BNN244",
+   "0AQT003",
+   "0AQT049",
+   "0AQT041",
+   "0BNP002",
+   "0AND376",
    "0AN0401",
-   "0AND357",
+   "0AQT005",
+   "0AQT027",
+   "0AND403",
+   "0AN0502",
+   "0ANC322",
+   "0AND402",
+   "0AND351",
+   "0AQT042",
+   "0ANB415",
+   "0ANE329",
+   "0AND343",
    "0AQT001",
-   "0AND351"
+   "0ANB417",
+   "0AND368",
+   "0ANC339",
+   "0AND378",
+   "0ANB512",
+   "0ANC354",
+   "0AND357",
+   "0ANE012",
+   "0AQT009",
+   "0ANE011",
+   "0AN0501",
+   "0ANA324",
+   "0BNN234",
+   "0AN0405",
+   "0AND401",
+   "0ANB716",
+   "0ANB803",
+   "0AND001",
+   "0AQT047",
+   "0AQT051",
+   "0BNN222",
+   "0AND372",
+   "0ANE325",
+   "0ANC351",
+   "0AQT043"
   ],
   "nb_dedicated_courses":26
  },
@@ -259,8 +259,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -284,14 +284,14 @@
    4
   ],
   "matched_courses":[
-   "0AL5603",
-   "0AL5300",
+   "0AL5313",
    "0AL5317",
-   "0AL5621",
-   "0AL5312",
    "0AL5315",
    "0AL5618",
-   "0AL5313"
+   "0AL5312",
+   "0AL5621",
+   "0AL5603",
+   "0AL5300"
   ],
   "nb_dedicated_courses":4
  },
@@ -301,8 +301,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -322,9 +322,9 @@
    2
   ],
   "matched_courses":[
+   "0AJNDA9",
    "0AJJA25",
-   "0AJMD09",
-   "0AJNDA9"
+   "0AJMD09"
   ],
   "nb_dedicated_courses":0
  },
@@ -334,8 +334,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -357,13 +357,13 @@
    5
   ],
   "matched_courses":[
-   "0ABE076",
-   "0ABC621",
+   "0ABE376",
    "0BBE604",
    "0BBE605",
    "0ABE363",
-   "0ABE376",
-   "0ABE362"
+   "0ABE076",
+   "0ABE362",
+   "0ABC621"
   ],
   "nb_dedicated_courses":3
  },
@@ -373,8 +373,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -402,8 +402,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -427,16 +427,16 @@
    6
   ],
   "matched_courses":[
-   "01EH434",
-   "02JZ020",
-   "01ER432",
    "02ES015",
-   "02JZ001",
+   "02JZ016",
+   "01EH434",
+   "01ER432",
+   "01EC551",
+   "02JZ020",
+   "01EC549",
    "02JZ003",
    "02JZ014",
-   "01EC551",
-   "02JZ016",
-   "01EC549"
+   "02JZ001"
   ],
   "nb_dedicated_courses":2
  },
@@ -446,8 +446,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -473,82 +473,82 @@
    32
   ],
   "matched_courses":[
-   "0AQT009",
-   "01AD112",
-   "01AD111",
-   "01AH404",
-   "01AB423",
-   "0AQT005",
-   "01AC245",
-   "0AQT042",
-   "02AL501",
-   "01AB330",
-   "01AD201",
-   "01AE234",
-   "01AD601",
-   "01AH001",
-   "01AH305",
-   "01AD614",
-   "0AQT047",
-   "01AC123",
-   "01AD526",
-   "02AR074",
-   "01AH308",
-   "01AB331",
-   "01AD412",
-   "01AC122",
-   "02AM060",
-   "01AH407",
-   "0AQT041",
-   "01AH010",
-   "0AQT051",
-   "01AH011",
-   "01AD414",
-   "01AD316",
-   "0AQT043",
-   "0A00102",
+   "02AF365",
+   "01AD227",
    "01AH002",
-   "02AM501",
-   "01AH209",
-   "01AB843",
-   "01AB328",
-   "01AD430",
-   "02AF111",
-   "01AB773",
-   "02AM058",
-   "01AC241",
-   "0AQT027",
-   "0AQT001",
+   "01AB316",
+   "01AD201",
+   "0AQT031",
+   "02AM059",
+   "0A00102",
    "0AQT003",
+   "0AQT049",
+   "01AB331",
+   "01AH408",
+   "01AD412",
+   "01AD316",
+   "0AQT041",
+   "01AB423",
+   "01AD601",
+   "0AQT005",
+   "0AQT027",
+   "02AM501",
    "01AB422",
+   "01AH308",
+   "01AD614",
+   "0A00501",
    "01AB421",
    "0A00505",
-   "02AM059",
+   "01AB424",
+   "02AL501",
+   "01AD232",
+   "01AH404",
+   "0AQT042",
+   "01AH407",
+   "01AH010",
+   "02AF111",
+   "0AQT001",
+   "01AH011",
+   "01AB330",
+   "01AH001",
+   "01AD414",
+   "02AM058",
+   "01AD230",
+   "02AR074",
+   "01AC241",
+   "01AB773",
+   "01AB420",
+   "01AB774",
+   "01AD214",
+   "0AQT009",
+   "01AB378",
+   "01AH209",
+   "01AE234",
+   "02AR094",
+   "01AD526",
    "01AD234",
    "01AH206",
-   "01AB378",
-   "01AB424",
-   "0AQT031",
-   "01AB774",
+   "01AH305",
    "02AF352",
-   "0AQT049",
-   "01AC192",
-   "01AD214",
-   "01AD230",
-   "01AH409",
-   "01AB316",
    "01AB767",
-   "01AD232",
-   "01AD525",
-   "01AH408",
-   "02AR094",
-   "02AF365",
+   "01AD112",
+   "01AC202",
+   "01AC123",
+   "01AC245",
+   "01AB843",
    "01AC167",
-   "01AB420",
-   "0A00501",
+   "01AD430",
+   "0AQT047",
+   "01AB328",
+   "01AH409",
+   "02AM060",
+   "0AQT051",
+   "0AQT043",
+   "01AC192",
+   "01AD111",
+   "01AC122",
    "01AD319",
-   "01AD227",
-   "01AC202"
+   "01AD525"
   ],
   "nb_dedicated_courses":46
  },
@@ -558,8 +558,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -583,15 +583,15 @@
    4
   ],
   "matched_courses":[
-   "01CF411",
-   "01CM909",
-   "01CF311",
-   "01CF308",
-   "01CF310",
    "01CF413",
+   "01CF311",
+   "01CF411",
+   "01CF308",
    "01CM440",
+   "01CM323",
    "01CN205",
-   "01CM323"
+   "01CF310",
+   "01CM909"
   ],
   "nb_dedicated_courses":5
  },
@@ -601,8 +601,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -665,8 +665,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -690,13 +690,13 @@
    3
   ],
   "matched_courses":[
-   "01DP649",
-   "01DF609",
    "01DR244",
    "01DZ108",
    "01DR242",
-   "01DR255",
+   "01DP649",
    "01DR256",
+   "01DR255",
+   "01DF609",
    "01DZ677"
   ],
   "nb_dedicated_courses":2
@@ -707,8 +707,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -736,8 +736,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -761,15 +761,15 @@
    5
   ],
   "matched_courses":[
-   "0AVC304",
-   "0A0A013",
-   "0BTX105",
-   "0ATV203",
-   "0A0A004",
-   "0ATV205",
    "0ATAE30",
-   "0A0A002",
-   "0ATP106"
+   "0ATP106",
+   "0A0A013",
+   "0A0A004",
+   "0ATV203",
+   "0ATV205",
+   "0AVC304",
+   "0BTX105",
+   "0A0A002"
   ],
   "nb_dedicated_courses":3
  },
@@ -779,8 +779,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -806,67 +806,67 @@
    32
   ],
   "matched_courses":[
-   "0AQT009",
-   "0BNP002",
-   "0AND343",
-   "0BNN234",
-   "0ANC322",
-   "0AJMD09",
-   "0AH0203",
-   "0ANB716",
-   "0AQT005",
-   "0AQT042",
-   "0AL5312",
-   "0AND368",
-   "0ANC354",
-   "0BNN222",
-   "0AL5618",
-   "0ANE012",
-   "0AQT047",
-   "0AN0501",
-   "0AQT041",
-   "0ANA324",
-   "0ANC339",
-   "0AQT051",
    "0ANB804",
-   "0AND402",
-   "0ANE329",
-   "0AQT043",
-   "0ANB415",
-   "0AL5621",
-   "0AND376",
-   "0ANB512",
-   "0AND001",
-   "0AH0316",
    "0AJNDA9",
-   "0AL5603",
-   "0AL5300",
-   "0AJJA25",
-   "0AN0502",
-   "0AQT027",
-   "0AND401",
-   "0AND372",
-   "0AQT003",
-   "0ANE325",
-   "0ANB803",
-   "0ANB417",
-   "0AQT031",
-   "0ANE011",
-   "0AQT049",
-   "0AL5313",
    "0AL5317",
-   "0BNN244",
-   "0ANC351",
+   "0AQT031",
+   "0AL5618",
+   "0AH0316",
+   "0AL5312",
    "0ANC333",
-   "0AND378",
-   "0AND403",
-   "0AN0405",
-   "0A0A002",
+   "0BNN244",
+   "0AL5621",
+   "0AQT003",
+   "0AQT049",
+   "0AQT041",
+   "0BNP002",
+   "0AND376",
    "0AN0401",
+   "0AQT005",
+   "0AQT027",
+   "0AND403",
+   "0AN0502",
+   "0ANC322",
+   "0AND402",
+   "0AND351",
+   "0AQT042",
+   "0ANB415",
+   "0ANE329",
+   "0AND343",
+   "0AQT001",
+   "0ANB417",
+   "0ANC339",
+   "0AND368",
+   "0AND378",
+   "0AJJA25",
+   "0ANB512",
+   "0ANC354",
    "0AL5315",
    "0AND357",
-   "0AQT001",
-   "0AND351"
+   "0ANE012",
+   "0AQT009",
+   "0AH0203",
+   "0ANE011",
+   "0AN0501",
+   "0ANA324",
+   "0BNN234",
+   "0AJMD09",
+   "0AN0405",
+   "0A0A002",
+   "0AL5313",
+   "0AND401",
+   "0ANB716",
+   "0ANB803",
+   "0AND001",
+   "0AQT047",
+   "0AQT051",
+   "0BNN222",
+   "0AND372",
+   "0AL5603",
+   "0ANE325",
+   "0ANC351",
+   "0AQT043",
+   "0AL5300"
   ],
   "nb_dedicated_courses":32
  },
@@ -876,8 +876,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -902,18 +902,18 @@
    8
   ],
   "matched_courses":[
-   "0ABE076",
    "0ABE376",
-   "0AA3014",
-   "0ADM108",
-   "0AA3013",
-   "0BBE604",
-   "0BBE605",
-   "0ABE363",
    "0AFL415",
    "0BDM293",
+   "0BBE604",
+   "0BBE605",
+   "0ADM108",
+   "0ABE363",
+   "0ABE076",
+   "0ABE362",
    "0ABC621",
-   "0ABE362"
+   "0AA3014",
+   "0AA3013"
   ],
   "nb_dedicated_courses":6
  },
@@ -923,8 +923,8 @@
   "cycle":"grad",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -946,10 +946,10 @@
    1
   ],
   "matched_courses":[
-   "0A00501",
    "0A00102",
-   "0A00505",
-   "0A00312"
+   "0A00501",
+   "0A00312",
+   "0A00505"
   ],
   "nb_dedicated_courses":2
  },
@@ -987,8 +987,8 @@
   "cycle":"bac",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -1014,76 +1014,76 @@
    47
   ],
   "matched_courses":[
-   "AC66102",
-   "VB10011",
-   "BB41371",
-   "FE11421",
-   "FF16801",
-   "EC12401",
-   "W870041",
-   "EC42001",
-   "FG45771",
-   "FG55791",
-   "W160341",
-   "CB11111",
-   "EC34203",
-   "EE21241",
-   "FF56351",
-   "VB30023",
-   "EC33311",
-   "EC32181",
-   "EC32111",
-   "EC41163",
-   "FH61151",
-   "EC34171",
-   "FF00021",
-   "BC12342",
    "EE22521",
-   "AC65E41",
-   "HC22001",
-   "EC33321",
-   "FH47041",
-   "VB10001",
-   "EC23293",
-   "FH27041",
-   "VB20001",
-   "EC33651",
-   "EC35101",
-   "FH48061",
-   "BC12571",
-   "EC33401",
-   "BE22302",
-   "EB72911",
-   "EC33591",
-   "FG56821",
-   "EC33721",
-   "EE22701",
-   "FJ11111",
-   "EC34381",
-   "VB30001",
-   "BC50141",
-   "FG46821",
-   "EC35071",
-   "EC32231",
-   "EE22841",
-   "EE22691",
-   "EC34281",
-   "BB11811",
-   "EC25081",
-   "EC42023",
-   "EC25061",
-   "FG45831",
-   "BC51584",
-   "FH47034",
-   "FE11161",
-   "BB11331",
-   "BC11791",
-   "EC34061",
-   "FG56791",
-   "FG46791",
+   "EC34171",
    "EC32031",
+   "FF16801",
+   "W870041",
+   "AC66102",
+   "EC32111",
+   "FG45831",
+   "EC42023",
+   "EE22221",
+   "EC34381",
+   "FG46821",
+   "EC33721",
+   "EE21241",
+   "BC50141",
+   "EC34203",
+   "FG56791",
+   "VB20001",
+   "FG56821",
+   "BB11811",
+   "BC11791",
+   "BC12571",
+   "EB72911",
+   "VB10011",
+   "FG46791",
+   "VB30001",
+   "HC22001",
+   "FH47034",
+   "EC32231",
+   "EC12401",
+   "EC34061",
+   "FJ11111",
+   "EC41163",
+   "FG55791",
+   "AC65E41",
+   "EC34281",
+   "EC33401",
+   "FE11421",
+   "VB10001",
+   "EC33591",
+   "EC25061",
+   "W160341",
+   "EE22841",
+   "EC25081",
+   "BB11331",
+   "EC35071",
+   "FG45771",
+   "FE11161",
+   "BE22302",
+   "EC32181",
+   "EC23293",
    "EC35041",
-   "EE22221"
+   "EE22691",
+   "FF00021",
+   "FH47041",
+   "BB41371",
+   "FH27041",
+   "EC35101",
+   "EC33321",
+   "EC42001",
+   "EE22701",
+   "FH61151",
+   "EC33311",
+   "CB11111",
+   "FH48061",
+   "VB30023",
+   "EC33651",
+   "BC12342",
+   "FF56351",
+   "BC51584"
   ],
   "nb_dedicated_courses":24
  },
@@ -1093,8 +1093,8 @@
   "cycle":"bac",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -1124,8 +1124,8 @@
   "cycle":"bac",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -1145,12 +1145,12 @@
    5
   ],
   "matched_courses":[
-   "3902242",
-   "1415021",
-   "1414014",
    "1226151",
-   "1405014",
-   "1426011"
+   "3902242",
+   "1414014",
+   "1426011",
+   "1415021",
+   "1405014"
   ],
   "nb_dedicated_courses":1
  },
@@ -1160,8 +1160,8 @@
   "cycle":"bac",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -1183,13 +1183,13 @@
    4
   ],
   "matched_courses":[
-   "EG60111",
-   "EB72911",
-   "EG90211",
    "EG60561",
-   "EG60611",
+   "EG91101",
+   "EB72911",
+   "EG60111",
    "EG60421",
-   "EG91101"
+   "EG60611",
+   "EG90211"
   ],
   "nb_dedicated_courses":1
  },
@@ -1199,8 +1199,8 @@
   "cycle":"bac",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -1228,8 +1228,8 @@
   "cycle":"bac",
   "url":"https:\/\/kdb.tsukuba.ac.jp",
   "languages":[
-   "ja",
-   "en"
+   "en",
+   "ja"
   ],
   "campuses":[
 
@@ -1249,8 +1249,8 @@
    1
   ],
   "matched_courses":[
-   "1F90011",
    "1C90131",
+   "1F90011",
    "1490111"
   ],
   "nb_dedicated_courses":0
